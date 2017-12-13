@@ -1,0 +1,36 @@
+# 初次上传忽略
+﻿# *.png
+# *.jpg
+# *.Wav
+# *.apk
+# *.mp3
+# *.gif
+# *.DS_Store
+# *.flv
+# *.wma
+# *.wmv
+# *.avi
+# *.doc
+# *.pptx
+# *.ppt
+# *.zip
+# *.rar
+# *.docx
+# *.aac
+# *.xlsx
+# *.psd
+# *.exe
+# *.mp4
+# *.ppk
+
+.idea/
+
+关系/
+技术和专长/
+健身/
+逻辑链条/
+日常生活/
+我的爱情/
+隐私/
+资金流/
+知识账本/

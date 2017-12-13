@@ -1,0 +1,28 @@
+﻿
+[submodule "我的爱情"]
+	path = 我的爱情
+	url = https://github.com/xieqiupeng/My-Dear-Love
+[submodule "技术和专长"]
+	path = 技术和专长
+	url = https://github.com/xieqiupeng/Technology-and-Expertise
+[submodule "逻辑链条"]
+	path = 逻辑链条
+	url = https://github.com/xieqiupeng/Logic-Chain
+[submodule "健身"]
+	path = 健身
+	url = https://github.com/xieqiupeng/Workout
+[submodule "关系"]
+	path = 关系
+	url = https://github.com/xieqiupeng/Relationship
+[submodule "日常生活"]
+	path = 日常生活
+	url = https://github.com/xieqiupeng/Daily-Life
+[submodule "职业"]
+	path = 职业
+	url = https://github.com/xieqiupeng/Career
+[submodule "资金流"]
+	path = 资金流
+	url = https://github.com/xieqiupeng/Money-Flow
+[submodule "隐私"]
+	path = 隐私
+	url = https://github.com/xieqiupeng/Concealment
