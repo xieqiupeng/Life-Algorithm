@@ -7,9 +7,6 @@
 [submodule "逻辑链条"]
 	path = 逻辑链条
 	url = https://github.com/xieqiupeng/Logic-Chain
-[submodule "健身"]
-	path = 健身
-	url = https://github.com/xieqiupeng/Workout
 [submodule "关系"]
 	path = 关系
 	url = https://github.com/xieqiupeng/Relationship
