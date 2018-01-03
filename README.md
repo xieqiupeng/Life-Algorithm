@@ -37,6 +37,7 @@
 1. [日常生活(Daily-Life)](https://github.com/xieqiupeng/Daily-Life)
 1. [事业和工作(Career)](https://github.com/xieqiupeng/Career)
 1. [资金流(Money-Flow)](https://github.com/xieqiupeng/Money-Flow)
+1. [知识账本(Knowledge-Book)](https://github.com/xieqiupeng/Knowledge-Book)
 
 **private repositories**
 1. [关系(Relationship)](https://github.com/xieqiupeng/Relationship)
