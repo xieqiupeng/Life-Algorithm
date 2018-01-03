@@ -23,3 +23,7 @@
 [submodule "资金流"]
 	path = 资金流
 	url = https://github.com/xieqiupeng/Money-Flow
+[submodule "Daily-Life"]
+	path = Daily-Life
+	url = https://github.com/xieqiupeng/Daily-Life
+	branch = master
