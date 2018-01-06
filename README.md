@@ -18,9 +18,7 @@
 
 它不是规律。
 
-它是你用一种不断迭代的机制，
-
-提高自己达成目标的概率的过程，
+它是你用一种不断迭代的机制，提高自己达成目标的概率的过程。
 
 这就是算法。
 
@@ -57,7 +55,7 @@
 
 **private repositories**
 1. [关系(Relationship)](https://github.com/xieqiupeng/Relationship)
-1. [逻辑链条(Logic-Chain)](https://github.com/xieqiupeng/Logic-Chain)
+1. [目标链条(Aim-Chain)](https://github.com/xieqiupeng/Aim-Chain)
 1. [隐私(Concealment)](https://github.com/xieqiupeng/Concealment)
 1. [我的爱情(My-Dear-Love)](https://github.com/xieqiupeng/My-Dear-Love)
 
