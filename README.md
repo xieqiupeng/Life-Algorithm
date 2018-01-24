@@ -46,6 +46,7 @@
 用传统的文字链接可能更清楚稳定一些。<br/>
 
 **public repositories**
+1. [人生算法(Life-Algorithm)](https://github.com/xieqiupeng/Life-Algorithm)
 1. [技术和专长(Technology-and-Expertise)](https://github.com/xieqiupeng/Technology-and-Expertise)
 1. [日常生活(Daily-Life)](https://github.com/xieqiupeng/Daily-Life)
 1. [事业和工作(Career)](https://github.com/xieqiupeng/Career)
