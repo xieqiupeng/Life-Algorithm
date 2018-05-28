@@ -12,6 +12,7 @@ git pull
 2.2_My-Dear-Girl
 2.3_Relationship
 3_Product-Me
+3.0.0_Workout
 Concealment
 Do-Things
 Knowledge-Book
