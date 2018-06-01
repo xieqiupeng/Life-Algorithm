@@ -63,3 +63,7 @@ git pull origin
 
 cd $ROOT/4_Scene
 git pull origin
+cd $ROOT/Do-Things
+git pull origin
+cd $ROOT/Technology-and-Expertise
+git pull origin
