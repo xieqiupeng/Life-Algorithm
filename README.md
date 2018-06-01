@@ -40,30 +40,25 @@
 
 岁月不饶人，但愿你也未曾饶了岁月。
 
-#### 附：结构
-这是一个内容仓库，所以并不适合git的依赖管理。<br/>
-子树合并会增加仓库的体积，子模块显示上会有问题。<br/>
-用传统的文字链接可能更清楚稳定一些。<br/>
-
-**public repositories**
+#### 附 **private repositories**
+男人是书  
 1. [人生算法(Life-Algorithm)](https://github.com/xieqiupeng/Life-Algorithm)
 1. [技术和专长(Technology-and-Expertise)](https://github.com/xieqiupeng/Technology-and-Expertise)
-1. [日常生活(Daily-Life)](https://github.com/xieqiupeng/Daily-Life)
-1. [事业和工作(Career)](https://github.com/xieqiupeng/Career)
-1. [资金流(Money-Flow)](https://github.com/xieqiupeng/Money-Flow)
-1. [健身(Workout)](https://github.com/xieqiupeng/Workout)
+1. [算法我(1_Algorithm-Me)](https://github.com/xieqiupeng/1_Algorithm-Me)
+1. [目标链条(1.1_Aim-Chain)](https://github.com/xieqiupeng/Aim-Chain)
+1. [资金流(1.2_Money-Flow)](https://github.com/xieqiupeng/Money-Flow)
+1. [日常生活(1.3_Daily-Life)](https://github.com/xieqiupeng/Daily-Life)
+1. [用户画像(2_Customer-Profile)](https://github.com/xieqiupeng/Career)
+1. [事业和工作(2.1_Career)](https://github.com/xieqiupeng/Career)
+1. [2.2](https://github.com/xieqiupeng)
+1. [关系(2.3_Relationship)](https://github.com/xieqiupeng/Relationship)
+1. [产品我(3_Product-Me)](https://github.com/xieqiupeng/3_Product-Me)
+1. [健身(3.1_Workout)](https://github.com/xieqiupeng/Workout)
+1. [角色层(3.2_Conversation)](https://github.com/xieqiupeng/Workout)
+1. [场景(4_Scene)](https://github.com/xieqiupeng/4_Scene)
+1. [做事儿(Do-Things)](https://github.com/xieqiupeng/Concealment)
 1. [知识账本(Knowledge-Book)](https://github.com/xieqiupeng/Knowledge-Book)
-
-**private repositories**
-1. [关系(Relationship)](https://github.com/xieqiupeng/Relationship)
-关系是很奇妙的存在
-正是所谓看不见的
-也许更重要
-
-1. [目标链条(Aim-Chain)](https://github.com/xieqiupeng/Aim-Chain)
 1. [隐私(Concealment)](https://github.com/xieqiupeng/Concealment)
-1. [我的爱情(My-Dear-Love)](https://github.com/xieqiupeng/My-Dear-Love)
-
 
 #### 附2：直播
 我在修改这个项目的时候，
