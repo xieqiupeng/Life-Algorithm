@@ -47,3 +47,5 @@ cd $ROOT/Technology-and-Expertise
 git pull origin
 cd $ROOT/Knowledge-Book
 git pull origin
+cd $ROOT
+ 
