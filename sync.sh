@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#! 自动同步脚本
+# 自动同步脚本
 
 ### 全部仓库
 # 0_Product-Algorithm
@@ -17,6 +17,8 @@
 # 3_Product-Me
 # 3.0.0_Workout
 #
+# 4_Scence
+#
 # Concealment
 # Do-Things
 # Knowledge-Book
@@ -27,10 +29,12 @@
 # git fetch https://github.com/xieqiupeng/Life-Algorithm master
 
 # pull all
-PATH=/Users/Cobb/Documents/Life-Algorithm
-cd $PATH/0_Product-Algorithm
+export ROOT=/Users/Cobb/Documents/Life-Algorithm
+cd $ROOT/0_Product-Algorithm
 git pull origin
-cd $PATH/1_Algorithm-Me
+cd $ROOT/1_Algorithm-Me
 git pull origin
-cd $PATH/2_Customer-Profile
+cd $ROOT/2_Customer-Profile
+git pull origin
+cd $ROOT/3_Product-Me
 git pull origin
