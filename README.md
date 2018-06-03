@@ -76,4 +76,4 @@
 而算法迭代的过程  
 就是人生的修行了  
 
-[少年, 这里有一份算法使用指南, 拿去]()
+[少年, 这里有一份算法使用指南, 拿去](https://github.com/xieqiupeng/Life-Algorithm/blob/master/%E7%AE%97%E6%B3%95%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
