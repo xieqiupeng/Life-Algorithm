@@ -56,7 +56,7 @@
 1. [课程(2.1_Tutotial)](https://github.com/xieqiupeng/Career)
 1. [关系(2.3_Relationship)](https://github.com/xieqiupeng/Relationship)
 1. [生态(2.4_Ecology)](https://github.com/xieqiupeng/Career)
-1. [事业和工作(2.5_Career)](https://github.com/xieqiupeng/Career)
+1. [事业和职业(2.5_Career)](https://github.com/xieqiupeng/Career)
 1. [产品我(3_Product-Me)](https://github.com/xieqiupeng/3_Product-Me)
 1. [健身(3.1_Workout)](https://github.com/xieqiupeng/Workout)
 1. [角色层(3.2_Conversation)](https://github.com/xieqiupeng/Workout)
