@@ -16,8 +16,8 @@
 1. [角色层(3.2_Conversation)](https://github.com/xieqiupeng/Workout)
 1. [场景(4_Scene)](https://github.com/xieqiupeng/4_Scene)
 1. [做事儿(Do-Things)](https://github.com/xieqiupeng/Concealment)
-1. [知识账本(Knowledge-Book)](https://github.com/xieqiupeng/Knowledge-Book)
 1. [隐私(Concealment)](https://github.com/xieqiupeng/Concealment)
+1. [~~知识账本(Knowledge-Book)~~](https://github.com/xieqiupeng/Knowledge-Book)
 1. [~~思维宫殿(MindPalace)~~](https://github.com/xieqiupeng)
 
 #### 接下来的开发计划
