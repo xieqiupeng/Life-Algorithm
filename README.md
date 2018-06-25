@@ -40,3 +40,6 @@
 岁月不饶人，  
 
 但愿你也未曾饶了岁月。  
+
+---
+[Release Notes](Release Notes.md)
