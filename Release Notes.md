@@ -5,6 +5,7 @@
 1. [算法我(1_Algorithm-Me)](https://github.com/xieqiupeng/1_Algorithm-Me)
 1. [目标链条(1.1_Aim-Chain)](https://github.com/xieqiupeng/1.1_Aim-Chain)
 1. [日常生活(1.2_Daily-Life)](https://github.com/xieqiupeng/1.2_Daily-Life)
+1. [练舞(1.2.3_Dance)](https://github.com/xieqiupeng/1_Algorithm-Me)
 1. [资金流(1.3_Money-Flow)](https://github.com/xieqiupeng/1.3_Money-Flow)
 1. [用户画像(2_Customer-Profile)](https://github.com/xieqiupeng/2_Customer-Profile)
 1. [课程(2.1_Tutotial)](https://github.com/xieqiupeng/2.1_Tutotial)
@@ -17,7 +18,7 @@
 1. [场景(4_Scene)](https://github.com/xieqiupeng/4_Scene)
 1. [做事儿(Do-Things)](https://github.com/xieqiupeng/Concealment)
 1. [隐私(Concealment)](https://github.com/xieqiupeng/Concealment)
-1. [大学时代](https://github.com/xieqiupeng/Age-of-University)
+1. [大学时代(Age-of-University)](https://github.com/xieqiupeng/Age-of-University)
 1. [~~知识账本(Knowledge-Book)~~](https://github.com/xieqiupeng/Knowledge-Book)
 1. [~~思维宫殿(MindPalace)~~](https://github.com/xieqiupeng)
 
