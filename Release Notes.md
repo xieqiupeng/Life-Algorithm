@@ -6,6 +6,7 @@
 1. [目标链条(1.1_Aim-Chain)](https://github.com/xieqiupeng/1.1_Aim-Chain)
 1. [日常生活(1.2_Daily-Life)](https://github.com/xieqiupeng/1.2_Daily-Life)
 1. [练舞(1.2.3_Dance)](https://github.com/xieqiupeng/1_Algorithm-Me)
+1. [工具和兵器(1.2.4_Tools-and-Weapons)](https://github.com/xieqiupeng/1.2.4_Tools-and-Weapons)
 1. [资金流(1.3_Money-Flow)](https://github.com/xieqiupeng/1.3_Money-Flow)
 1. [用户画像(2_Customer-Profile)](https://github.com/xieqiupeng/3_Customer-Profile)
 1. [课程(2.1_Tutotial)](https://github.com/xieqiupeng/2.1_Tutotial)
