@@ -41,4 +41,4 @@
 
 但愿你也未曾饶了岁月。  
 
-[wiki](https://github.com/xieqiupeng/Life-Algorithm/blob/master/Release%20Notes.md)
+[wiki](https://github.com/xieqiupeng/Life-Algorithm/wiki)
