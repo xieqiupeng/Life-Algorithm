@@ -1,5 +1,13 @@
 ### 版本说明
-#### private repositories
+#### 接下来的开发计划
+其实已经有微服务的影子了  
+以后应该会根据不同的产品目标  
+拆分项目  
+各个目标丰富了自己的视野，  
+弥补短板，彼此促进  
+但又互不影响  
+
+#### Private Repositories
 1. [人生算法(Life-Algorithm)](https://github.com/xieqiupeng/Life-Algorithm)
 1. [技术和专长(Technology-and-Expertise)](https://github.com/xieqiupeng/Technology-and-Expertise)
 
@@ -32,14 +40,6 @@
 1. [大学时代(Age-of-University)](https://github.com/xieqiupeng/Age-of-University)
 1. [~~知识账本(Knowledge-Book)~~](https://github.com/xieqiupeng/Knowledge-Book)
 1. [~~思维宫殿(MindPalace)~~](https://github.com/xieqiupeng)
-
-#### 接下来的开发计划
-其实已经有微服务的影子了  
-以后应该会根据不同的产品目标  
-拆分项目  
-各个目标丰富了自己的视野，  
-弥补短板，彼此促进  
-但又互不影响  
 
 #### 直播
 我在修改这个项目的时候，
