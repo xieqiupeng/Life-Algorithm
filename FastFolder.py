@@ -14,9 +14,9 @@ def cdNextFolder( all ):
             match = pattern.match(each)
             if match:
                 target = match.group(0)
-                print(target)
-                print os.getcwd()
-                listNextFolder(root, target)
+                # print(target)
+                print(root + "/" + target)
+                # listNextFolder(root, target)
 
 # 打印序号名称和仓库名称
 def listNextFolder( root, child ):
@@ -24,12 +24,9 @@ def listNextFolder( root, child ):
     os.chdir(child)
     dirs = os.listdir(os.getcwd())
     for each in dirs:
-        # if not os.path.isdir(each)
-        #     continue
         match = pattern.match(each)
         if match:
             print(each)
-    # os.chdir(root)
 
 #
 if __name__ == '__main__':
