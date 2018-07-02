@@ -4,33 +4,39 @@ import os
 import sys
 import re
 
+# 单个数字 or 多级数字必须以数字结尾
+pattern = re.compile(r'^[0-9]$|^([0-9]\.){1,}[0-9]$')
+
 # 遍历所有序号仓库
 def cdNextFolder( all ):
-    pattern = re.compile(r'^[0-9]$|([0-9]\.){1,}[0-9]')
     for root, dirs, files in os.walk(all):
         for each in dirs:
             match = pattern.match(each)
             if match:
                 target = match.group(0)
                 print(target)
-                # 序号文件夹
-                os.chdir(target)
-                child = os.getcwd()
-                listNextFolder(child)
-                os.chdir('..')
+                print os.getcwd()
+                listNextFolder(root, target)
 
 # 打印序号名称和仓库名称
-def listNextFolder( all ):
-    print(all)
-    dirs = os.listdir(all)
+def listNextFolder( root, child ):
+    os.chdir(root)
+    os.chdir(child)
+    dirs = os.listdir(os.getcwd())
     for each in dirs:
-        if os.path.isdir(each):
+        # if not os.path.isdir(each)
+        #     continue
+        match = pattern.match(each)
+        if match:
             print(each)
+    # os.chdir(root)
 
+#
 if __name__ == '__main__':
-    abs = os.path.abspath(__file__)
-    real = os.path.realpath(__file__)
-    dirname = os.path.dirname(real)
+    # abs = os.path.abspath(__file__)
+    # real = os.path.realpath(__file__)
+    # dirname = os.path.dirname(real)
     cwd = os.getcwd()
-    print "\n\t" + abs + "\n\t" + real + "\n\t" + dirname + "\n\t" + cwd
+    # print "\n\t" + abs + "\n\t" + real + "\n\t" + dirname
+    # print cwd
     cdNextFolder(cwd)
