@@ -14,6 +14,13 @@ if __name__ == '__main__':
     for folder in list:
         if not os.path.isdir(folder):
             continue
+        print folder
         match = pattern.match(folder)
         if match:
-            print match.group(0)
+            root = match.group(0)
+            os.chdir(root)
+            childFolder = os.path.dirname(os.path.realpath(__file__))
+            print(os.listdir(childFolder))
+            os.chdir('..')
+        else:
+            continue
