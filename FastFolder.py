@@ -25,7 +25,7 @@ def listNextFolder( root, target ):
     dirs = os.listdir(os.getcwd())
     for each in dirs:
         if os.path.isdir(each):
-            print target + "_" + each
+            print target + "_" + each + "\n"
 
 #
 if __name__ == '__main__':
