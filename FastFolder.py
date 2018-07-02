@@ -8,4 +8,5 @@ if __name__ == '__main__':
     dirname = os.path.dirname(real)
     cwd = os.getcwd()
     list = os.listdir(dirname)
-    print "\n\t" + abs + "\n\t" + real + "\n\t" + dirname + "\n\t" + cwd + "\n\t" + list
+    print "\n\t" + abs + "\n\t" + real + "\n\t" + dirname + "\n\t" + cwd
+    print list
