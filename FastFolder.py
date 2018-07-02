@@ -14,19 +14,18 @@ def cdNextFolder( all ):
             match = pattern.match(each)
             if match:
                 target = match.group(0)
-                # print(target)
-                print(root + "/" + target)
-                # listNextFolder(root, target)
+                # 打印仓库序号
+                print root + "/" + target
+                listNextFolder(root, target)
 
-# 打印序号名称和仓库名称
-def listNextFolder( root, child ):
+# 打印仓库正式名称
+def listNextFolder( root, target ):
     os.chdir(root)
-    os.chdir(child)
+    os.chdir(target)
     dirs = os.listdir(os.getcwd())
     for each in dirs:
-        match = pattern.match(each)
-        if match:
-            print(each)
+        if os.path.isdir(each):
+            print target + "_" + each
 
 #
 if __name__ == '__main__':
