@@ -15,7 +15,7 @@ def cdNextFolder( all ):
             if match:
                 target = match.group(0)
                 # 打印仓库序号
-                print root + "/" + target
+                # print root + "/" + target
                 listNextFolder(root, target)
 
 # 打印仓库正式名称
