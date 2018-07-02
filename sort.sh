@@ -6,5 +6,4 @@ export ROOT=/Users/Cobb/Documents/Life-Algorithm
 cd $ROOT
 cd /Users/Cobb/Documents/Life-Algorithm
 
-
 cd $ROOT
