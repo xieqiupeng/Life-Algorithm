@@ -41,4 +41,4 @@ def listNextFolder( root, target ):
 #
 if __name__ == '__main__':
     cwd = os.getcwd()
-    cdNextFolder()
+    getAlias()
