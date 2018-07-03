@@ -26,7 +26,8 @@ def listNextFolder( root, target ):
     dirs = os.listdir(os.getcwd())
     for each in dirs:
         if os.path.isdir(each):
-            print root + "/" + target + "/" + each
+            shell = "ln -s " + root + "/" + target + "/" + each + " " + target + "_" + each
+            print shell
             # print target + "_" + each
 
 #
