@@ -7,6 +7,7 @@ import re
 # 单个数字 or 多级数字必须以数字结尾
 pattern = re.compile(r'^[0-9]$|^([0-9]\.){1,}[0-9]$')
 
+# 打印文件
 def getList():
     cwd = os.getcwd();
     for root, dirs, files in os.walk(cwd):
@@ -25,10 +26,10 @@ def getAlias():
             match = pattern.match(each)
             if match:
                 target = match.group(0)
-                listNextFolder(root, target)
+                showChild(root, target)
 
 # 打印仓库正式名称
-def listNextFolder( root, target ):
+def showChild( root, target ):
     os.chdir(root)
     os.chdir(target)
     dirs = os.listdir(os.getcwd())
@@ -39,6 +40,12 @@ def listNextFolder( root, target ):
             # print target + "_" + each
 
 #
-if __name__ == '__main__':
-    cwd = os.getcwd()
-    getAlias()
+def __main__():
+    if len(sys.argv) == 1:
+        return
+    if sys.argv[1] == "getAlias":
+        getAlias()
+    else:
+        getList()
+
+__main__()
