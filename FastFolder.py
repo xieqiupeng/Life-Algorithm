@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 #coding=utf-8
+# ln -s ./4/Customer-Profile/4.4/Ecology/4.4.1/iGetGet/ iGetGet
 import os
 import sys
 import re
@@ -25,7 +26,8 @@ def listNextFolder( root, target ):
     dirs = os.listdir(os.getcwd())
     for each in dirs:
         if os.path.isdir(each):
-            print target + "_" + each + "\n"
+            print root + "/" + target + "/" + each
+            # print target + "_" + each
 
 #
 if __name__ == '__main__':

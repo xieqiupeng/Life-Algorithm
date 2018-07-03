@@ -7,3 +7,5 @@ cd $ROOT
 cd /Users/Cobb/Documents/Life-Algorithm
 
 cd $ROOT
+
+ln -s ./4/.../4.4/... ...
