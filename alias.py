@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 #coding=utf-8
-# ln -s ./4/Customer-Profile/4.4/Ecology/4.4.1/iGetGet/ iGetGet
 import os
 import sys
 import re
