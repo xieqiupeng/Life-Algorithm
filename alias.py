@@ -31,10 +31,5 @@ def listNextFolder( root, target ):
 
 #
 if __name__ == '__main__':
-    # abs = os.path.abspath(__file__)
-    # real = os.path.realpath(__file__)
-    # dirname = os.path.dirname(real)
     cwd = os.getcwd()
-    # print "\n\t" + abs + "\n\t" + real + "\n\t" + dirname
-    # print cwd
     cdNextFolder(cwd)
