@@ -7,15 +7,24 @@ import re
 # 单个数字 or 多级数字必须以数字结尾
 pattern = re.compile(r'^[0-9]$|^([0-9]\.){1,}[0-9]$')
 
-# 遍历所有序号仓库
-def cdNextFolder( all ):
-    for root, dirs, files in os.walk(all):
+def getList():
+    cwd = os.getcwd();
+    for root, dirs, files in os.walk(cwd):
         for each in dirs:
             match = pattern.match(each)
             if match:
                 target = match.group(0)
                 # 打印仓库序号
-                # print root + "/" + target
+                print root + "/" + target
+
+# 遍历所有序号仓库
+def getAlias():
+    cwd = os.getcwd();
+    for root, dirs, files in os.walk(cwd):
+        for each in dirs:
+            match = pattern.match(each)
+            if match:
+                target = match.group(0)
                 listNextFolder(root, target)
 
 # 打印仓库正式名称
@@ -32,4 +41,4 @@ def listNextFolder( root, target ):
 #
 if __name__ == '__main__':
     cwd = os.getcwd()
-    cdNextFolder(cwd)
+    cdNextFolder()
