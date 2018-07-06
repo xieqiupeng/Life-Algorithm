@@ -1,4 +1,5 @@
 ### 版本说明
+
 #### 接下来的开发计划
 其实已经有微服务的影子了  
 以后应该会根据不同的产品目标  
@@ -15,12 +16,12 @@ python alias.py
   python alias.py 2
 1. 参数 -2
   遍历前缀
-  python alias.py 2 1.
+  python alias.py 2 1.4
 1. 参数 -3
   展示样式
   + 列表 getList  
   + 替身shell命令 getAlias
-  
+
 #### 直播
 我在修改这个项目的时候，
 会考虑直播。
