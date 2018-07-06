@@ -5,7 +5,7 @@ import sys
 import re
 
 # 单个数字 or 多级数字必须以数字结尾
-pattern = re.compile(r'^[0-9]$|^([0-9]\.){1,}[0-9]$')
+pattern = '^[0-9]$|^([0-9]\.){1,}[0-9]$'
 path = "";
 name = "";
 
@@ -60,26 +60,27 @@ def bfs( dirs ):
 # pattern
 def getPattern():
     global pattern
-    # 全部显示
     if len(sys.argv) == 1:
-        sys.argv.append("")
-        str = "^[0-9]$|^([0-9]\.){1," + sys.argv[1] + "}[0-9]$"
-    # 指定模版
+        # 指定长度
+        sys.argv.append("10")
+    pattern = "(\.[0-9]){0," + sys.argv[1] + "}$"
     if len(sys.argv) == 2:
-        sys.argv.append("")
-        str = "^" + sys.argv[1] + "(\.[0-9]){0}" + "[0-9]$"
-    pattern = re.compile(r''+ str +'')
-    # print pattern
+        # 指定前缀
+        sys.argv.append("[0-9]|")
+    pattern = "^" + sys.argv[2] + pattern
+    print pattern
+    regex = re.compile(r''+ pattern +'')
+    return regex
 
 #
 def __main__():
-    getPattern()
+    regex = getPattern()
     if len(sys.argv) == 3:
         sys.argv.append("getAlias")
     cwd = os.getcwd();
     for root, dirs, files in os.walk(cwd):
         for each in dirs:
-            match = pattern.match(each)
+            match = regex.match(each)
             if match:
                 target = match.group(0)
                 if sys.argv[3] == "getAlias":
