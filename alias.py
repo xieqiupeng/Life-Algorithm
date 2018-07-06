@@ -18,7 +18,6 @@ def getList( root, target ):
             print target + "_" + each
 
 # 打印alias命令
-
 def getAlias( root, target ):
     os.chdir(root)
     os.chdir(target)
