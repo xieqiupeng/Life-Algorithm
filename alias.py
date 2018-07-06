@@ -8,7 +8,7 @@ import re
 pattern = re.compile(r'^[0-9]$|^([0-9]\.){1,}[0-9]$')
 
 # 打印仓库列表
-def showList( root, target ):
+def getList( root, target ):
     print root + "/" + target
     os.chdir(root)
     os.chdir(target)
@@ -18,7 +18,7 @@ def showList( root, target ):
             print target + "_" + each
 
 # 打印alias命令
-def showAlias( root, target ):
+def getAlias( root, target ):
     os.chdir(root)
     os.chdir(target)
     dirs = os.listdir(os.getcwd())
@@ -29,17 +29,23 @@ def showAlias( root, target ):
 
 #
 def __main__():
-    if len(sys.argv) == 1:
-        sys.argv.append("getList")
     cwd = os.getcwd();
     for root, dirs, files in os.walk(cwd):
         for each in dirs:
             match = pattern.match(each)
             if match:
                 target = match.group(0)
+                if len(sys.argv) == 1:
+                    getAlias(root, target)
+                    continue
                 if sys.argv[1] == "getAlias":
-                    showAlias(root, target)
+                    getAlias(root, target)
+                    continue
+                if sys.argv[1] == "getList":
+                    getList(root, target)
+                    continue
                 else:
-                    showList(root, target)
+                    getAlias(root, target)
+                    continue
 
 __main__()
