@@ -5,6 +5,7 @@ import sys
 import re
 
 # 单个数字 or 多级数字必须以数字结尾
+pattern = re.compile(r'^[0-9]$|^([0-9]\.){1,}[0-9]$')
 
 # 打印仓库列表
 def getList( root, target ):
@@ -17,10 +18,27 @@ def getList( root, target ):
             print target + "_" + each
 
 # 打印alias命令
+
 def getAlias( root, target ):
     os.chdir(root)
     os.chdir(target)
     dirs = os.listdir(os.getcwd())
+    dfs()
+
+# Depth-First-Search
+def dfs():
+    for index in range(len(dirs)):
+        each = dirs[index]
+        if os.path.isdir(each):
+            shell = "ln -s " + root + "/" + target + "/" + each + " " + target + "_" + each
+            print shell
+            # getAlias()
+        else:
+            shell = "ln -s " + root + "/" + target + "/" + each + " " + target + "_" + each
+            print shell
+
+# Breadth-First-Search
+def bfs():
     for each in dirs:
         if os.path.isdir(each):
             shell = "ln -s " + root + "/" + target + "/" + each + " " + target + "_" + each
