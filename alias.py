@@ -39,8 +39,8 @@ def dfs( dirs ):
         if os.path.isdir(each):
             path += each
             name = name + each
-            style = "\n"
-            # style = ""
+            # style = "\n"
+            style = ""
             shell = path + " " + name + style
             print shell
             continue
@@ -66,10 +66,9 @@ def getPattern():
     pattern = "(\.[0-9]){0," + sys.argv[1] + "}$"
     if len(sys.argv) == 2:
         # 指定前缀
-        sys.argv.append("[0-9]|")
+        sys.argv.append("[0-9]")
     pattern = "^" + sys.argv[2] + pattern
-    print pattern
-    regex = re.compile(r''+ pattern +'')
+    regex = re.compile(r'' + pattern)
     return regex
 
 #
