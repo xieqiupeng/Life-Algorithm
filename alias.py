@@ -62,7 +62,7 @@ def getPattern():
     global pattern
     if len(sys.argv) == 1:
         # 指定长度
-        sys.argv.append("10")
+        sys.argv.append("3")
     pattern = "(\.[0-9]){0," + sys.argv[1] + "}$"
     if len(sys.argv) == 2:
         # 指定前缀
