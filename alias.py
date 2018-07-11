@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# coding=utf-8
+#coding=utf-8
 import os
 import sys
 import re
@@ -12,13 +12,13 @@ name = ""
 
 # 打印仓库列表
 def get_list(root, target):
-    print root + "/" + target
+    print(root + "/" + target)
     os.chdir(root)
     os.chdir(target)
     dirs = os.listdir(os.getcwd())
     for each in dirs:
         if os.path.isdir(each):
-            print target + "_" + each
+            print(target + "_" + each)
 
 
 # 打印alias命令
@@ -45,7 +45,7 @@ def dfs(dirs):
             # style = "\n"
             style = ""
             shell = path + " " + name + style
-            print shell
+            print(shell)
             continue
             # getAlias()
         else:
@@ -59,7 +59,7 @@ def bfs(dirs):
     for each in dirs:
         if os.path.isdir(each):
             shell = "ln -s " + root + "/" + target + "/" + each + " " + target + "_" + each
-            print shell
+            print(shell)
 
 
 # pattern
