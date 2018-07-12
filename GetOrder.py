@@ -7,24 +7,26 @@ import re
 pattern = '^[0-9]$'
 path = ""
 name = ""
+sequence = ""
 
 
 # 打印序号
 def get_sequence(root):
+    global sequence
     regex = get_pattern()
-    sequence = ""
     levels = root.split("/")
     for index in range(len(levels)):
         each = levels[index]
-        print(str(each))
         match = regex.match(each)
-        # if match:
-        #     relative = match.group(0)
-        #     if sequence == "":
-        #         sequence = relative
-        #     if sequence != "":
-        #         sequence = sequence + "." + relative
-        #     return sequence
+        if match:
+            relative = match.group(0)
+            if sequence == "":
+                sequence = relative
+                continue
+            if sequence != "":
+                sequence = sequence + "." + relative
+                continue
+    return sequence
 
 
 # 打印alias命令
@@ -34,7 +36,6 @@ def get_alias(root, target):
     os.chdir(root)
     os.chdir(target)
     path = "ln -s " + root + "/" + target + "/"
-    name = get_sequence(root) + "_"
     dirs = os.listdir(os.getcwd())
     dfs(dirs)
 
@@ -43,13 +44,16 @@ def get_alias(root, target):
 def dfs(dirs):
     global path
     global name
+    global sequence
     for index in range(len(dirs)):
         each = dirs[index]
         if os.path.isdir(each):
             path += each
-            name = name + each
+            sequence = get_sequence(path)
+            name = sequence + "_" + each
             shell = path + " " + name
             print(shell)
+            sequence = ""
             continue
         else:
             continue
@@ -68,6 +72,7 @@ def __main__():
     cwd = os.getcwd()
     for root, dirs, files in os.walk(cwd):
         for each in dirs:
+            # 匹配每个文件夹
             match = regex.match(each)
             if match:
                 target = match.group(0)
