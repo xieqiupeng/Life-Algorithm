@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#coding=utf-8
+# coding=utf-8
 import os
 import sys
 import re
@@ -8,18 +8,24 @@ import re
 pattern = '^[0-9]$'
 path = ""
 name = ""
-absolute = ""
 
 
-# 打印绝对序号
-def get_absolute(relative):
-    global absolute
-    if absolute == "":
-        absolute = relative
-        return absolute
-    if absolute != "":
-        absolute = absolute + "." + relative
-        return absolute
+# 打印序号
+def get_sequence(root):
+    regex = get_pattern()
+    sequence = ""
+    levels = root.split("/")
+    for index in range(len(levels)):
+        each = levels[index]
+        print(str(each))
+        match = regex.match(each)
+        # if match:
+        #     relative = match.group(0)
+        #     if sequence == "":
+        #         sequence = relative
+        #     if sequence != "":
+        #         sequence = sequence + "." + relative
+        #     return sequence
 
 
 # 打印alias命令
@@ -29,7 +35,7 @@ def get_alias(root, target):
     os.chdir(root)
     os.chdir(target)
     path = "ln -s " + root + "/" + target + "/"
-    name = get_absolute(target) + "_"
+    name = get_sequence(root) + "_"
     dirs = os.listdir(os.getcwd())
     dfs(dirs)
 
@@ -43,16 +49,11 @@ def dfs(dirs):
         if os.path.isdir(each):
             path += each
             name = name + each
-            # style = "\n"
-            style = ""
-            shell = path + " " + name + style
+            shell = path + " " + name
             print(shell)
             continue
-            # getAlias()
         else:
             continue
-            # path = path + each
-            # name = name + each
 
 
 # pattern
@@ -72,5 +73,6 @@ def __main__():
             if match:
                 target = match.group(0)
                 get_alias(root, target)
+
 
 __main__()
