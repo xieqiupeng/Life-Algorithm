@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding=utf-8
 import os
-import sys
 import re
 
 # 单个数字 or 多级数字必须以数字结尾
