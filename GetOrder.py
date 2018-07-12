@@ -36,7 +36,7 @@ def get_alias(root, target):
     os.chdir(root)
     os.chdir(target)
     path = "ln -s " + root + "/" + target + "/"
-    dirs = os.listdir(os.getcwd())
+    dirs = os.listdir(root + "/" + target)
     dfs(dirs)
 
 
@@ -45,6 +45,8 @@ def dfs(dirs):
     global path
     global name
     global sequence
+    # print(dirs)
+    # filter()
     for index in range(len(dirs)):
         each = dirs[index]
         if os.path.isdir(each):
