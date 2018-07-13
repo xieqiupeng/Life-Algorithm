@@ -65,7 +65,7 @@ def print_list(root):
     for root, dirs, files in os.walk(root):
         for each in dirs:
             # 匹配每个文件夹
-            match = Patter.match_key(each)
+            match = Patter.match_pattern(each)
             if match:
                 os.chdir(each)
                 step_in_key(root, each)
@@ -77,8 +77,9 @@ def __main__():
     # 计算序号
     get_key()
     # 定位
-    locate_key()
+    # locate_key()
     # 打印
+    print_list(os.getcwd())
 
 
 __main__()
