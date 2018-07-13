@@ -5,17 +5,15 @@ import re
 import Key
 import Locate
 
-path = ""
-shell = ""
-key = ""
-
 
 # 根据文件路径计算序号
 def get_sequence(root):
-    global key
+    key = ""
     levels = root.split("/")
     for each in levels:
-        match = re.compile(r'^[0-9]&').match(each)
+        pattern = "[0-9]"
+        regex = re.compile(r'' + pattern)
+        match = regex.match(each)
         if not match:
             continue
         if key == "":
@@ -29,13 +27,11 @@ def get_sequence(root):
 
 # 生成别名
 def get_alias(root):
-    global path
-    global shell
-    path = root
+    start = "ln -s " + root
+    sequence = get_sequence(root)
     name = os.path.basename(root)
-    shell = "ln -s " + path + " " + key + "_" + name
-    print(shell)
-    # print_list(path)
+    shell = start + " " + sequence + "_" + name
+    return shell
 
 
 # 打印所有子目录
@@ -48,7 +44,7 @@ def print_list(root):
             match = Key.match_pattern(each)
             if match:
                 Locate.step_in(root, each)
-                # print(os.getcwd())
+                print(get_alias(os.getcwd()))
                 os.chdir(root)
 
 

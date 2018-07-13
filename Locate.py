@@ -40,7 +40,7 @@ def step_in_value(root):
         if os.path.isdir(each):
             os.chdir(each)
             # 目录切换成功
-            print(os.getcwd())
+            # print(os.getcwd())
 
 
 def init():
