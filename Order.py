@@ -5,50 +5,59 @@ import Patter
 
 path = ""
 shell = ""
-name = ""
-sequence = ""
+key = ""
 
 
 # 计算序号
-def get_sequence():
-    global sequence
-    sequence_list = Patter.get_sequence()
-    if len(sequence_list) > 0:
-        sequence = ".".join(sequence_list)
-    return sequence
+def get_key():
+    global key
+    key_list = Patter.get_key()
+    if len(key_list) > 0:
+        key = ".".join(key_list)
+    return key
 
 
-# 定位文件夹
-def location_sequence():
+# 定位序号
+def locate_key():
     root = os.getcwd()
     dirs = os.listdir(root)
     for each in dirs:
         # 匹配每个文件夹
-        match = Patter.match_sequence(each)
+        match = Patter.match_key(each)
         if match:
-            step_in_sequence(root, each)
+            step_in_key(root, each)
 
 
-# 定位文件夹
-def step_in_sequence(root, target):
+# 访问key
+def step_in_key(root, target):
     os.chdir(root)
     os.chdir(target)
-    get_alias(root, target)
+    step_in_value(root + "/" + target)
+
+
+# 访问value
+def step_in_value(root):
+    files = os.listdir(root)
+    for each in files:
+        if os.path.isdir(each):
+            os.chdir(each)
+            get_alias(root + "/" + each)
 
 
 # 生成别名
-def get_alias(root, target):
+def get_alias(root):
     global path
     global shell
-    path = root + "/" + target
-    shell = "ln -s " + path
+    path = root
+    name = os.path.basename(root)
+    shell = "ln -s " + path + " " + key + "_" + name
     print(shell)
+    # print_list(path)
 
 
 # 打印所有子目录
 def print_list(root):
-    global sequence
-    global name
+    global key
     global shell
     #
     # dirs 文件夹
@@ -56,25 +65,28 @@ def print_list(root):
     for root, dirs, files in os.walk(root):
         for each in dirs:
             # 匹配每个文件夹
-            match = Patter.match_sequence(each)
+            match = Patter.match_key(each)
             if match:
-                each += each
-                # sequence = get_sequence(path)
-                name = sequence + "_" + each
-                shell = shell + " " + name
-                # shell = name
-                sequence = ""
-                continue
-            else:
-                continue
+                print(dirs)
+
+        #         each += each
+        #
+        #         shell = shell + " " + name
+        #         step_in_text
+        #         # shell = name
+        #         key = ""
+        #         continue
+        #     else:
+        #         continue
 
 
 #
 def __main__():
     # 计算序号
-    get_sequence()
+    get_key()
     # 定位
-    location_sequence()
+    locate_key()
+    # 打印
 
 
 __main__()

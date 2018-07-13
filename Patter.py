@@ -3,42 +3,42 @@
 import re
 import sys
 
-sequence = []
+key = []
 
 
 # 计算序号
-def get_sequence():
-    global sequence
+def get_key():
+    global key
     if len(sys.argv) == 2:
         # 单个数字
         pattern1 = "^[0-9]$"
         regex1 = re.compile(r'' + pattern1)
         match1 = regex1.match(sys.argv[1])
         if match1:
-            sequence.append(sys.argv[1])
-            return sequence
+            key.append(sys.argv[1])
+            return key
         #
         # 多级数字必须以数字结尾
         pattern2 = "^([0-9]\.){1,}[0-9]$"
         regex2 = re.compile(r'' + pattern2)
         match2 = regex2.match(sys.argv[1])
         if match2:
-            sequence.extend(sys.argv[1].split("."))
-            return sequence
-    return sequence
+            key.extend(sys.argv[1].split("."))
+            return key
+    return key
 
 
 # 每级
-def match_sequence(folder):
-    if len(sequence) == 0:
+def match_key(folder):
+    if len(key) == 0:
         correct = 0
         return correct
-    pattern = "^" + sequence[0] + "$"
+    pattern = "^" + key[0] + "$"
     regex = re.compile(r'' + pattern)
     match = regex.match(folder)
     if match:
         correct = 1
-        sequence.remove(folder)
+        key.remove(folder)
     else:
         correct = 0
     return correct
@@ -46,7 +46,7 @@ def match_sequence(folder):
 
 # pattern
 def get_pattern():
-    global sequence
+    global key
     if len(sys.argv) == 1:
         # 指定前缀
         # 单个数字
