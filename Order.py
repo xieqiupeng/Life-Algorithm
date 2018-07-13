@@ -50,10 +50,11 @@ def dfs(dirs):
     for index in range(len(dirs)):
         each = dirs[index]
         if os.path.isdir(each):
-            path += each
+            # path += each
             sequence = get_sequence(path)
             name = sequence + "_" + each
-            shell = path + " " + name
+            # shell = path + " " + name
+            shell = name
             print(shell)
             sequence = ""
             continue
