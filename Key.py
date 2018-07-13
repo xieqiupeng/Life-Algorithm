@@ -37,11 +37,19 @@ def match_key(folder):
     regex = re.compile(r'' + pattern)
     match = regex.match(folder)
     if match:
-        correct = 1
+        correct = len(key)
         key.remove(folder)
     else:
         correct = 0
     return correct
+
+
+def get_key():
+    if len(key) == 0:
+        return ""
+    folder = key[0]
+    key.remove(folder)
+    return folder
 
 
 # pattern

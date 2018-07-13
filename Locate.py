@@ -17,8 +17,12 @@ def locate_key(root):
     for each in dirs:
         # 匹配每个文件夹
         match = Key.match_key(each)
-        if match:
-            step_in_key(root, each)
+        while match:
+            folder = Key.get_key()
+            if not folder == "":
+                step_in_key(root, folder)
+            print(os.getcwd())
+            match = match - 1
 
 
 # 访问
@@ -40,7 +44,6 @@ def step_in_value(root):
         if os.path.isdir(each):
             os.chdir(each)
             # 目录切换成功
-            # print(os.getcwd())
 
 
 def init():
