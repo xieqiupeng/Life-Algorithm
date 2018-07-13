@@ -25,6 +25,23 @@ def get_sequence():
         if match2:
             sequence.extend(sys.argv[1].split("."))
             return sequence
+    return sequence
+
+
+# 每级
+def match_sequence(folder):
+    if len(sequence) == 0:
+        correct = 0
+        return correct
+    pattern = "^" + sequence[0] + "$"
+    regex = re.compile(r'' + pattern)
+    match = regex.match(folder)
+    if match:
+        correct = 1
+        sequence.remove(folder)
+    else:
+        correct = 0
+    return correct
 
 
 # pattern
@@ -52,19 +69,7 @@ def get_pattern():
             return regex1
         if match2:
             param = sys.argv[1].split(".")
-            print(param)
             pattern2 = "^" + param[0] + "$"
             regex2 = re.compile(r'' + pattern2)
             return regex2
 
-
-# 每级
-def match_sequence(folder):
-    for index in range(len(sequence)):
-        pattern = "^" + sequence[index] + "$"
-        regex = re.compile(r'' + pattern)
-        match = regex.match(folder)
-        if match:
-            return 1
-        else:
-            return 0
