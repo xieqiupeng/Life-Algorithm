@@ -6,8 +6,8 @@ import sys
 key = []
 
 
-# 计算序号
-def get_key():
+# 计算起始子key
+def get_key_array():
     global key
     if len(sys.argv) == 2:
         # 单个数字
