@@ -3,14 +3,12 @@
 import re
 import sys
 
-param = []
 sequence = []
 
 
 # 计算序号
 def get_sequence():
     global sequence
-    global param
     if len(sys.argv) == 2:
         # 单个数字
         pattern1 = "^[0-9]$"
@@ -31,7 +29,7 @@ def get_sequence():
 
 # pattern
 def get_pattern():
-    global param
+    global sequence
     if len(sys.argv) == 1:
         # 指定前缀
         # 单个数字
@@ -61,7 +59,12 @@ def get_pattern():
 
 
 # 每级
-def folder_match(index):
-    pattern = "^" + param[index] + "$"
-    regex = re.compile(r'' + pattern)
-    return regex
+def match_sequence(folder):
+    for index in range(len(sequence)):
+        pattern = "^" + sequence[index] + "$"
+        regex = re.compile(r'' + pattern)
+        match = regex.match(folder)
+        if match:
+            return 1
+        else:
+            return 0

@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#coding=utf-8
+# coding=utf-8
 import os
 import sys
 import re
@@ -55,11 +55,11 @@ def dfs(dirs):
 
 
 # Breadth-First-Search
-def bfs(dirs):
-    for each in dirs:
-        if os.path.isdir(each):
-            shell = "ln -s " + root + "/" + target + "/" + each + " " + target + "_" + each
-            print(shell)
+# def bfs(dirs):
+#     for each in dirs:
+#         if os.path.isdir(each):
+#             shell = "ln -s " + root + "/" + target + "/" + each + " " + target + "_" + each
+#             print(shell)
 
 
 # pattern

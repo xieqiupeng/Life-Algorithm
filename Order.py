@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # coding=utf-8
 import os
-import sys
 import Patter
 
 path = ""
-sequence = ""
 name = ""
 sequence = []
 
@@ -14,7 +12,6 @@ sequence = []
 def get_sequence():
     global sequence
     sequence = Patter.get_sequence()
-    print(sequence)
     # levels = root.split("/")
     # for index in range(len(levels)):
     #     each = levels[index]
@@ -32,22 +29,29 @@ def get_sequence():
     return sequence
 
 
-# 找到序号文件夹
-def find_sub_folder():
-    regex = Patter.get_pattern()
-    cwd = os.getcwd()
-    # dirs 文件夹
-    # files 文件
-    for root, dirs, files in os.walk(cwd):
-        for each in dirs:
-            # 匹配每个文件夹
-            match = regex.match(each)
-            if match:
-                target = match.group(0)
-                get_alias(root, target)
+# 定位文件夹
+def location():
+    root = os.getcwd()
+    dirs = os.listdir(root)
+    for each in dirs:
+        # 匹配每个文件夹
+        match = Patter.match_sequence(each)
+        if match:
+            relocation(root, each)
 
 
-# 切换到指定序号
+# 定位文件夹
+def relocation(root, target):
+    global path
+    global name
+    os.chdir(root)
+    os.chdir(target)
+    path = "ln -s " + root + "/" + target + "/"
+    dirs = os.listdir(root + "/" + target)
+    print_list(dirs)
+
+
+# 生成别名
 def get_alias(root, target):
     global path
     global name
@@ -55,11 +59,11 @@ def get_alias(root, target):
     os.chdir(target)
     path = "ln -s " + root + "/" + target + "/"
     dirs = os.listdir(root + "/" + target)
-    dfs(dirs)
+    print_list(dirs)
 
 
 # 打印所有子目录
-def dfs(dirs):
+def print_list(dirs):
     global path
     global sequence
     global name
@@ -68,11 +72,11 @@ def dfs(dirs):
     for index in range(len(dirs)):
         each = dirs[index]
         if os.path.isdir(each):
-            # path += each
-            sequence = get_sequence(path)
-            name = sequence + "_" + each
-            # shell = path + " " + name
-            shell = name
+            path += each
+            # sequence = get_sequence(path)
+            name = each
+            shell = path + " " + name
+            # shell = name
             print(shell)
             sequence = ""
             continue
@@ -82,12 +86,12 @@ def dfs(dirs):
 
 #
 def __main__():
-    regex = Patter.get_pattern()
-    cwd = os.getcwd()
-    # dirs 文件夹
-    # files 文件
+    # 计算序号
     get_sequence()
-    # find_sub_folder()
+    # 定位
+    location()
+    #
+    # print_list()
 
 
 __main__()
