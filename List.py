@@ -52,6 +52,5 @@ def print_list(root):
 if __name__ == "__main__":
     # 切换
     Locate.init()
-    # print(os.getcwd())
     # 所有
     print_list(os.getcwd())
