@@ -4,6 +4,29 @@ import re
 import sys
 
 param = []
+sequence = []
+
+
+# 计算序号
+def get_sequence():
+    global sequence
+    global param
+    if len(sys.argv) == 2:
+        # 单个数字
+        pattern1 = "^[0-9]$"
+        regex1 = re.compile(r'' + pattern1)
+        match1 = regex1.match(sys.argv[1])
+        if match1:
+            sequence.append(sys.argv[1])
+            return sequence
+        #
+        # 多级数字必须以数字结尾
+        pattern2 = "^([0-9]\.){1,}[0-9]$"
+        regex2 = re.compile(r'' + pattern2)
+        match2 = regex2.match(sys.argv[1])
+        if match2:
+            sequence.extend(sys.argv[1].split("."))
+            return sequence
 
 
 # pattern

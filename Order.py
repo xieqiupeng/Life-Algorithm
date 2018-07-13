@@ -1,34 +1,53 @@
 #!/usr/bin/env python
 # coding=utf-8
 import os
-from Patter import *
+import sys
+import Patter
 
 path = ""
 sequence = ""
 name = ""
+sequence = []
 
 
-# 打印序号
-def get_sequence(root):
+# 计算序号
+def get_sequence():
     global sequence
-    levels = root.split("/")
-    for index in range(len(levels)):
-        each = levels[index]
-        regex = get_pattern()
-        # regex = folder_match(index)
-        match = regex.match(each)
-        if match:
-            relative = match.group(0)
-            if sequence == "":
-                sequence = relative
-                continue
-            if sequence != "":
-                sequence = sequence + "." + relative
-                continue
+    sequence = Patter.get_sequence()
+    print(sequence)
+    # levels = root.split("/")
+    # for index in range(len(levels)):
+    #     each = levels[index]
+    #
+    #     # regex = folder_match(index)
+    #     match = regex.match(each)
+    #     if match:
+    #         relative = match.group(0)
+    #         if sequence == "":
+    #             sequence = relative
+    #             continue
+    #         if sequence != "":
+    #             sequence = sequence + "." + relative
+    #             continue
     return sequence
 
 
-# 打印alias命令
+# 找到序号文件夹
+def find_sub_folder():
+    regex = Patter.get_pattern()
+    cwd = os.getcwd()
+    # dirs 文件夹
+    # files 文件
+    for root, dirs, files in os.walk(cwd):
+        for each in dirs:
+            # 匹配每个文件夹
+            match = regex.match(each)
+            if match:
+                target = match.group(0)
+                get_alias(root, target)
+
+
+# 切换到指定序号
 def get_alias(root, target):
     global path
     global name
@@ -39,7 +58,7 @@ def get_alias(root, target):
     dfs(dirs)
 
 
-# Depth-First-Search
+# 打印所有子目录
 def dfs(dirs):
     global path
     global sequence
@@ -63,17 +82,12 @@ def dfs(dirs):
 
 #
 def __main__():
-    regex = get_pattern()
+    regex = Patter.get_pattern()
     cwd = os.getcwd()
     # dirs 文件夹
     # files 文件
-    for root, dirs, files in os.walk(cwd):
-        for each in dirs:
-            # 匹配每个文件夹
-            match = regex.match(each)
-            if match:
-                target = match.group(0)
-                get_alias(root, target)
+    get_sequence()
+    # find_sub_folder()
 
 
 __main__()
