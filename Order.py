@@ -67,17 +67,9 @@ def print_list(root):
             # 匹配每个文件夹
             match = Patter.match_key(each)
             if match:
-                print(dirs)
-
-        #         each += each
-        #
-        #         shell = shell + " " + name
-        #         step_in_text
-        #         # shell = name
-        #         key = ""
-        #         continue
-        #     else:
-        #         continue
+                os.chdir(each)
+                step_in_key(root, each)
+                os.chdir(root)
 
 
 #
