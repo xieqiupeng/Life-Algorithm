@@ -57,6 +57,6 @@ def check_arg():
 
 
 def rm_arg():
-    print(arg)
+    # print(arg)
     arg.remove(arg[0])
 

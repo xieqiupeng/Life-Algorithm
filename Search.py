@@ -7,6 +7,7 @@ import os
 import re
 import Key
 import Locate
+import List
 
 
 # 根据文件路径计算序号
@@ -46,7 +47,7 @@ def print_list(root):
             # 匹配每个文件夹
             match = Key.match_pattern(each)
             if match:
-                Locate.step_in(root, each)
+                List.step_in(root, each)
                 print(get_alias(os.getcwd()))
                 os.chdir(root)
 

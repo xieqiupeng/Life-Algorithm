@@ -12,24 +12,18 @@ key = ""
 
 
 # 定位当前目录下的序号
-def locate_key(root):
+def list_key(root):
     dirs = os.listdir(root)
     for each in dirs:
         # 匹配当前目录下每个文件夹
         match = Arg.match_key(each)
         if match > 0:
-            step_in_key(root, each)
-            # print(os.getcwd())
+            step_in(root, each)
             return
 
 
-# 访问
-def step_in(root, target):
-    step_in_key(root, target)
-
-
 # 访问key
-def step_in_key(root, target):
+def step_in(root, target):
     os.chdir(root)
     os.chdir(target)
     step_in_value(root + "/" + target)
@@ -43,8 +37,6 @@ def step_in_value(root):
             os.chdir(each)
             # 目录切换成功，
             # print(os.getcwd())
-            # 删除一级参数
-            Arg.rm_arg()
 
 
 def init():
@@ -53,7 +45,7 @@ def init():
         print(os.getcwd())
         return
     while len(array):
-        locate_key(os.getcwd())
+        list_key(os.getcwd())
     print(os.getcwd())
 
 
