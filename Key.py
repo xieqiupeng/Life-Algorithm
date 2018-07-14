@@ -3,54 +3,6 @@
 import re
 import sys
 
-key = []
-
-
-# 计算起始子key
-def get_key_array():
-    global key
-    if len(sys.argv) == 2:
-        # 单个数字
-        pattern1 = "^[0-9]$"
-        regex1 = re.compile(r'' + pattern1)
-        match1 = regex1.match(sys.argv[1])
-        if match1:
-            key.append(sys.argv[1])
-            return key
-        #
-        # 多级数字必须以数字结尾
-        pattern2 = "^([0-9]\.){1,}[0-9]$"
-        regex2 = re.compile(r'' + pattern2)
-        match2 = regex2.match(sys.argv[1])
-        if match2:
-            key.extend(sys.argv[1].split("."))
-            return key
-    return key
-
-
-# 每级
-def match_key(folder):
-    if len(key) == 0:
-        correct = 0
-        return correct
-    pattern = "^" + key[0] + "$"
-    regex = re.compile(r'' + pattern)
-    match = regex.match(folder)
-    if match:
-        correct = len(key)
-        key.remove(folder)
-    else:
-        correct = 0
-    return correct
-
-
-def get_key():
-    if len(key) == 0:
-        return ""
-    folder = key[0]
-    key.remove(folder)
-    return folder
-
 
 # pattern
 def match_pattern(name):

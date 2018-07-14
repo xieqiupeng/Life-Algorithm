@@ -4,7 +4,7 @@
 进入序号Value目录
 """
 import os
-import Key
+import Arg
 
 path = ""
 shell = ""
@@ -16,13 +16,13 @@ def locate_key(root):
     dirs = os.listdir(root)
     for each in dirs:
         # 匹配每个文件夹
-        match = Key.match_key(each)
+        match = Arg.match_key(each)
         while match:
-            folder = Key.get_key()
+            folder = Arg.get_key()
             if not folder == "":
                 step_in_key(root, folder)
-            print(os.getcwd())
-            match = match - 1
+                match = match - 1
+            # print(os.getcwd())
 
 
 # 访问
@@ -44,11 +44,20 @@ def step_in_value(root):
         if os.path.isdir(each):
             os.chdir(each)
             # 目录切换成功
+            # print(os.getcwd())
 
 
 def init():
-    array = Key.get_key_array()
+    array = Arg.get_agr()
+    print(array)
     if len(array) == 0:
+        print(os.getcwd())
         return
     if not len(array) == 0:
         locate_key(os.getcwd())
+
+
+#
+if __name__ == "__main__":
+    # 切换
+    init()

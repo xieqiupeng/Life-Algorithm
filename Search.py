@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # coding=utf-8
+"""
+识别
+"""
 import os
 import re
 import Key
