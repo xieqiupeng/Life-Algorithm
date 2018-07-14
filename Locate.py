@@ -12,17 +12,16 @@ key = ""
 
 
 # 定位序号
-def locate_key(root):
+def locate_key():
+    root = os.getcwd()
     dirs = os.listdir(root)
     for each in dirs:
-        # 匹配每个文件夹
+        # 匹配当前目录下每个文件夹
         match = Arg.match_key(each)
-        while match:
-            folder = Arg.get_key()
-            if not folder == "":
-                step_in_key(root, folder)
-                match = match - 1
-            # print(os.getcwd())
+        if match > 0:
+            step_in_key(root, each)
+            print(os.getcwd())
+            return
 
 
 # 访问
@@ -43,18 +42,19 @@ def step_in_value(root):
     for each in files:
         if os.path.isdir(each):
             os.chdir(each)
-            # 目录切换成功
+            # 目录切换成功，
             # print(os.getcwd())
+            # 删除一级参数
+            Arg.rm_arg()
 
 
 def init():
-    array = Arg.get_agr()
-    print(array)
+    array = Arg.get_arg()
     if len(array) == 0:
         print(os.getcwd())
         return
-    if not len(array) == 0:
-        locate_key(os.getcwd())
+    while len(array):
+        locate_key()
 
 
 #
