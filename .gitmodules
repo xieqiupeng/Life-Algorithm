@@ -1,3 +1,28 @@
 [submodule "0/Operating-System"]
 	path = 0/Operating-System
-	url = https://github.com/xieqiupeng/Operating-System.git
+	url = https://xieqiupeng@github.com/xieqiupeng/Operating-System.git
+	fetchrecursesubmodules = true
+[submodule "1/Data-Me"]
+	path = 1/Data-Me
+	url = https://xieqiupeng@github.com/xieqiupeng/Data-Me.git
+	fetchrecursesubmodules = true
+[submodule "2/Algorithm-Me"]
+	path = 2/Algorithm-Me
+	url = https://xieqiupeng@github.com/xieqiupeng/Algorithm-Me.git
+	fetchrecursesubmodules = true
+[submodule "3/Product-Me"]
+	path = 3/Product-Me
+	url = https://github.com/xieqiupeng/3_Product-Me.git
+	fetchrecursesubmodules = true
+[submodule "4/Customer-Profile"]
+	path = 4/Customer-Profile
+	url = https://github.com/xieqiupeng/2_Customer-Profile.git
+	fetchrecursesubmodules = true
+[submodule "5/Scene"]
+	path = 5/Scene
+	url = https://github.com/xieqiupeng/4_Scene.git
+	fetchrecursesubmodules = true
+[submodule "Concealment"]
+	path = Concealment
+	url = https://github.com/xieqiupeng/Concealment.git
+	fetchrecursesubmodules = true

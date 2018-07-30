@@ -31,10 +31,11 @@ def get_sequence(root):
 
 # 生成别名
 def get_alias(root):
-    start = "ln -s " + root
+    start = "ln -s " + root + " "
+    start = ""
     sequence = get_sequence(root)
     name = os.path.basename(root)
-    shell = start + " " + sequence + "_" + name
+    shell = start + sequence + "_" + name
     return shell
 
 

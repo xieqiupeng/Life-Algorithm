@@ -5,7 +5,6 @@
 # *.apk
 # *.mp3
 # *.gif
-# *.DS_Store
 # *.flv
 # *.wma
 # *.wmv
@@ -36,3 +35,4 @@
 知识账本/
 *.pyc
 2.3.1_Coitus-Power
+*.DS_Store
