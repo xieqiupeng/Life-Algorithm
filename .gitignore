@@ -36,3 +36,4 @@
 *.pyc
 2.3.1_Coitus-Power
 *.DS_Store
+/.idea/workspace.xml
