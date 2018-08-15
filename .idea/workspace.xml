@@ -1,12 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/4/Customer-Profile" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c8e71a8-19ee-4bc5-8245-d251a7ed4b44" name="Default Changelist" comment="" />
+    <list default="true" id="5c8e71a8-19ee-4bc5-8245-d251a7ed4b44" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/0/Operating-System/3/产品/产品vs算法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0/Operating-System/3/产品/产品能力.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0/Operating-System/等级.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.4.2_Technology-and-Expertise/Y2015/Android/2/架构和组件/Square.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/体验/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/目标/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/问自己的问题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/4/缺陷算法/健康/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/4/缺陷算法/头发/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/4/缺陷算法/头发/医院.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/2/Technology-and-Expertise/Y2015/Android/2/架构和组件/Square.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0/Operating-System" beforeDir="false" afterPath="$PROJECT_DIR$/0/Operating-System" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0/Operating-System/3/产品/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0/Operating-System/3/产品/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0/Operating-System/3/产品/产品.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0/Operating-System/4/用户画像/2_确定性服务/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0/Operating-System/系统能力.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0/Operating-System/4/用户画像/2_确定性服务/系统能力.md" beforeDir="false" afterPath="$PROJECT_DIR$/0/Operating-System/4/用户画像/2_确定性服务/确定性服务.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0/Operating-System/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0/Operating-System/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/Data-Me" beforeDir="false" afterPath="$PROJECT_DIR$/1/Data-Me" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/1/轻加轻盈五日餐/1Day.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/2/外卖/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/2/餐厅/小花旦.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/2/餐厅/米可自选沙拉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/2/餐厅/许小树.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/3/零食/兰花豆.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/3/零食/口香糖.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/3/零食/奶粉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/3/零食/瓜子.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/3/零食/荞麦片.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/3/零食/蛋白薯片.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/3/零食/零度.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/3/零食/鸭肫.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/4/口袋减脂营/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/4/口袋减脂营/加餐.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/4/口袋减脂营/午餐.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/4/口袋减脂营/早餐.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/4/口袋减脂营/早餐.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/4/口袋减脂营/晚餐.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/4/口袋减脂营/睡前.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/4/口袋减脂营/饮食计划.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/4/口袋减脂营/饮食计划.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/主食/沙拉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/主食/温度.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/主食/火锅.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/主食/用脑.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/主食/红肉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/主食/蛋白粉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/主食/鱼肉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/主食/鸡胸肉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/主食/麻辣烫.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/少食.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/撸串.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/时机.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/补剂/蛋白粉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/食欲.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/食物库.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/2/Diet/饮食习惯.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/3/Dance/Music.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/3/Dance/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/3/Dance/望京.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/3/Dance/莱美/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/4/肌肉训练/EPOC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4.1_Workout/4/肌肉训练/史密斯机.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/1/满足/满足" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/2/价值清单/目的.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/2/价值清单/目的.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/1/Tools-and-Weapons" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/1/Tools-and-Weapons" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/1/Tools-and-Weapons/软件/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/1/Tools-and-Weapons/软件/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/3/Money-Flow" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/3/Money-Flow" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/3/Money-Flow/3/盈利/资本盈利/房产/买房/共有产权房.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/3/Money-Flow/3/盈利/资本盈利/房产/买房/共有产权房.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/3/能力层/1/Coitus-Power/Communication" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/3/能力层/1/Coitus-Power/Communication" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/1/轻加轻盈五日餐/1Day.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/2/外卖/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/2/餐厅/小花旦.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/2/餐厅/米可自选沙拉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/2/餐厅/许小树.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/3/零食/兰花豆.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/3/零食/口香糖.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/3/零食/奶粉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/3/零食/瓜子.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/3/零食/荞麦片.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/3/零食/蛋白薯片.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/3/零食/零度.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/3/零食/鸭肫.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/4/口袋减脂营/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/4/口袋减脂营/加餐.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/4/口袋减脂营/午餐.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/4/口袋减脂营/早餐.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/4/口袋减脂营/早餐.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/4/口袋减脂营/晚餐.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/4/口袋减脂营/睡前.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/4/口袋减脂营/饮食计划.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/4/口袋减脂营/饮食计划.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/主食/沙拉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/主食/温度.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/主食/火锅.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/主食/用脑.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/主食/红肉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/主食/蛋白粉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/主食/鱼肉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/主食/鸡胸肉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/主食/麻辣烫.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/少食.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/撸串.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/时机.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/补剂/蛋白粉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/食欲.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/食物库.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/2/Diet/饮食习惯.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/3/Dance/Music.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/3/Dance/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/3/Dance/望京.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/3/Dance/莱美/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/4/肌肉训练/EPOC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout/4/肌肉训练/史密斯机.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/2/Technology-and-Expertise" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/2/Technology-and-Expertise" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Career" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/5/Career" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Career/1/理想的工作/阿里级别.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/5/Career/1/理想的工作/阿里级别.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Career/5/行业专家/自我发展工程学/介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/5/Career/5/行业专家/自我发展工程学/介绍.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Career/5/行业专家/自我发展工程学/申请书.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/5/Career/5/行业专家/自我发展工程学/申请书.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Product-Me" beforeDir="false" afterPath="$PROJECT_DIR$/3/Product-Me" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.1.3_Level-Date" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/1/人不求人一般高/下.md" beforeDir="false" afterPath="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/1/人不求人一般高/下.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/1/人不求人一般高/中.md" beforeDir="false" afterPath="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/1/人不求人一般高/中.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/1_实践主义.md" beforeDir="false" afterPath="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/1/实践主义.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/3_稀缺性.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/4_社会认同.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/5_一致性陷阱.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/5_互惠原则.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/补充.md" beforeDir="false" afterPath="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/补充.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/Scene" beforeDir="false" afterPath="$PROJECT_DIR$/5/Scene" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Concealment" beforeDir="false" afterPath="$PROJECT_DIR$/Concealment" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Release Notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/Release Notes.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="965454669">
@@ -43,35 +199,48 @@
     <session id="-1255114512">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitattributes" value="1" />
-          <entry key="gitignore" value="1" />
-          <entry key="md" value="9" />
+          <entry key="MD" value="1" />
+          <entry key="gitattributes" value="2" />
+          <entry key="gitignore" value="9" />
+          <entry key="gitmodules" value="1" />
+          <entry key="m" value="1" />
+          <entry key="md" value="334" />
+          <entry key="png" value="1" />
+          <entry key="post-checkout" value="1" />
+          <entry key="py" value="6" />
+          <entry key="txt" value="4" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="9" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Image" value="1" />
+          <entry key="Markdown" value="335" />
+          <entry key="PLAIN_TEXT" value="24" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="75" />
+          <entry key="gitignore" value="1" />
+          <entry key="md" value="3255" />
+          <entry key="py" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="75" />
+          <entry key="Markdown" value="3255" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -591,23 +760,230 @@
         </favorite_root>
         <favorite_root url="file://$PROJECT_DIR$/3.1.2_身体语言/身体语言.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
       </favorite_root>
+      <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/0" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/0/导读" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/0/导读/上.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/0/导读/下.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/1" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/1/人不求人一般高" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/1/人不求人一般高/上.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/1/人不求人一般高/下.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/1/人不求人一般高/中.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/1/人不求人一般高/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/2" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/2/人性弱点" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/2/人性弱点/补充.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/2/人性弱点/3_稀缺性.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/2/人性弱点/1_实践主义.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/2/人性弱点/4_社会认同.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/2/人性弱点/5_互惠原则.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/2/人性弱点/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/2/人性弱点/2_一致性陷阱.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/3" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/3/人格特质" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/3/人格特质/人格特质(上).md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/3/人格特质/人格特质(下).md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/4" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/4/生存目标" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/4/生存目标/生存目标.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/1/谈人性/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/1" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/1/两类男人" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/1/两类男人/女人眼中的两类男人.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/2" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/2/疼爱是一种姿态" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/2/疼爱是一种姿态/疼爱是一种姿态.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/3" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/3/女人需要疼爱" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/3/女人需要疼爱/女人需要疼爱(上).md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/3/女人需要疼爱/女人需要疼爱(下).md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/其他" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/其他/争执.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/其他/区别.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/其他/需求.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/其他/两种爱.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/其他/女性与奢侈品.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/2/谈女性/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/3" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/3" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/3/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/原版" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/原版/影响力.docx" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/原版/约会学.docx" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/原版/约会学：导读.docx" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/序号" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/序号/123.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/序号/124.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/序号/125.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/序号/126.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/序号/127.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/0/约会学/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/坑" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/坑/帮助" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/坑/帮助/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/坑/道德" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/坑/道德/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/坑/讲道理" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/坑/讲道理/1_争执.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/坑/讲道理/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/魅力" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/魅力/破碎.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/魅力/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/情绪控制" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/情绪控制/失败.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/情绪控制/直男癌.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/情绪控制/装可怜.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/情绪控制/配不上.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/情绪控制/危险关系.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/情绪控制/爱情的样子.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/周期.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/响应.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/手段.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/技能.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/排队.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/结果.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/长期关系.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/1_稀缺性.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/2_目的性.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/1/不犯错/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/1" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/1/捧哏" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/1/捧哏/倾听.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/1/捧哏/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/2" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/2/配合" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/2/配合/2_3个人.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/2/配合/3_内在父母.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/2/配合/4_内在小孩.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/2/配合/5_内在成人.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/2/配合/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/2/配合/1_感受和现实.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/3" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/3/示弱" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/3/示弱/自黑" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/3/示弱/自黑/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/3/示弱/1_强者.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/3/示弱/2_指责.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/3/示弱/4_攻击.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/3/示弱/5_撒娇.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/3/示弱/6_示弱.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/3/示弱/7_经验.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/3/示弱/9_疲惫.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/3/示弱/8_低姿态.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/3/示弱/5_2_赞美.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/3/示弱/3_哀求和付出.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/4" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/4/调教" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/4/调教/坏" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/4/调教/坏/残忍和宽容.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/4/调教/坏/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/4/调教/反馈.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/4/调教/调教.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/4/调教/听话的小狗.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/重视" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/重视/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/得体.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/2/姿态/做个讨人喜欢的人.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/3" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/3/加分" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/3/加分/吃饭" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/3/加分/吃饭/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/3/加分/生日" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/3/加分/生日/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/3/加分/夸奖.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/3/加分/搂肩.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/3/加分/送回家.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/3/加分/承担责任.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/3/加分/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/4" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/4/邀约" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/4/邀约/邀约.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/4/邀约/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/.idea" module="Life-Algorithm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/.idea/vcs.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/.idea/misc.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/.idea/modules.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/.idea/Level-Date.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/好朋友.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/复盘总结.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/约会关系.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/选择的责任.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/魔鬼约会学.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/README.md" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/.gitignore" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/4.1.3_Level-Date/.gitattributes" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2.4.2_Technology-and-Expertise/1/规范/3/文档/IDE.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="114">
-                <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -619,27 +995,91 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ide</find>
+      <find>rz</find>
+      <find>系统</find>
+      <find>系统能力</find>
+      <find>约</find>
+      <find>时间</find>
+      <find>约出</find>
+      <find>结婚教练</find>
+      <find>等上一阵</find>
+      <find>故事</find>
+      <find>升级</find>
+      <find>进程</find>
+      <find>mvn</find>
+      <find>p6</find>
+      <find>p7</find>
+      <find>mac</find>
+      <find>unrar</find>
+      <find>公产房</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/2.4.2_Technology-and-Expertise/1/规范/3/文档</dir>
+      <dir>$PROJECT_DIR$/0/Operating-System/4/用户画像</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="/usr/local/git/bin/git" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/2.4.2_Technology-and-Expertise" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Search.py" />
-        <option value="$PROJECT_DIR$/1/Data-Me/3/资料库/README.md" />
-        <option value="$PROJECT_DIR$/1/Data-Me/3/资料库/身高.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/2.4.2_Technology-and-Expertise/1/规范/3/文档/IDE.md" />
+        <option value="$PROJECT_DIR$/1.4.1_iGetGet/4/罗辑思维/知识就是力量/有价值的人.md" />
+        <option value="$PROJECT_DIR$/1.4.1_iGetGet/关系攻略/浪漫.md" />
+        <option value="$PROJECT_DIR$/3/Product-Me/故事层/README.md" />
+        <option value="$PROJECT_DIR$/5/Scene/1/私有场景/1/随身算法/README.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/1/Tutorial/2/聊天层/如何鉴定好感.md" />
+        <option value="$PROJECT_DIR$/5/Scene/2/用户场景/新居.md" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/问自己的问题.md" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/目标/README.md" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/2/价值清单/目的.md" />
+        <option value="$PROJECT_DIR$/1.4.1_iGetGet/自我发展心理学/README.md" />
+        <option value="$PROJECT_DIR$/1.4.1_iGetGet/自我发展心理学/如何创造新经验.md" />
+        <option value="$PROJECT_DIR$/1.4.1_iGetGet/自我发展心理学/如何识别改变的障碍.md" />
+        <option value="$PROJECT_DIR$/1.4.1_iGetGet/自我发展心理学/如何看清恐惧.md" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/README.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/约会层vs驯养层.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/0/Relationship/家族关系/1_谢秋景.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/0/Relationship/家族关系/燕家/README.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/0/Relationship/家族关系/西草市/xgy.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/0/Relationship/家族关系/燕家/xgy.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/4/My-Dear-Girl/3/约会层/25_gly/感动/README.md" />
+        <option value="$PROJECT_DIR$/2.4.2_Technology-and-Expertise/5/Java/2/SpringBoot/2_Spring注解/API注解/@BaseInfo.md" />
+        <option value="$PROJECT_DIR$/0/Operating-System/等级.md" />
+        <option value="$PROJECT_DIR$/2.4.2_Technology-and-Expertise/1/规范/1/依赖管理/3_Maven/mvn命令.md" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/5/Career/1/理想的工作/阿里级别.md" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/1/Tools-and-Weapons/软件/README.md" />
+        <option value="$PROJECT_DIR$/5/Scene/1/私有场景/1/洗漱场景/其他.md" />
+        <option value="$PROJECT_DIR$/5/Scene/1/私有场景/1/洗漱场景/README.md" />
+        <option value="$PROJECT_DIR$/5/Scene/1/私有场景/1/洗漱场景/洗漱.md" />
+        <option value="$PROJECT_DIR$/5/Scene/1/私有场景/1/洗漱场景/金地1层.md" />
+        <option value="$PROJECT_DIR$/5/Scene/3/颜值场景/README.md" />
+        <option value="$PROJECT_DIR$/Release Notes.md" />
+        <option value="$PROJECT_DIR$/5/Scene/2/用户场景/5/运动场景/Crossfit.md" />
+        <option value="$PROJECT_DIR$/5/Scene/3/社交场景/party.md" />
+        <option value="$PROJECT_DIR$/2.4.1_Workout/3/Dance/莱美/README.md" />
+        <option value="$PROJECT_DIR$/3.2.1_专业男友/权力欲.md" />
+        <option value="$PROJECT_DIR$/6/故事层/README.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/0/员工/README.md" />
+        <option value="$PROJECT_DIR$/6/Story/服务/主见.md" />
+        <option value="$PROJECT_DIR$/2.5.5_行业专家/自我发展工程学/申请书.md" />
+        <option value="$PROJECT_DIR$/2.5.5_行业专家/自我发展工程学/介绍.md" />
+        <option value="$PROJECT_DIR$/2.5.5_行业专家/对手/对手.md" />
+        <option value="$PROJECT_DIR$/6/Story/1/我的故事/得到故事.md" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/4/缺陷算法/头发/医院.md" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/3/Money-Flow/3/盈利/资本盈利/房产/买房/共有产权房.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/1/人不求人一般高/下.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/1/人不求人一般高/中.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/1_实践主义.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/3_稀缺性.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/4_社会认同.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/2_一致性陷阱.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/补充.md" />
       </list>
     </option>
   </component>
@@ -649,10 +1089,16 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="56" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="54" />
     <option name="y" value="23" />
-    <option name="width" value="1384" />
+    <option name="width" value="1386" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -660,6 +1106,7 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -671,36 +1118,18 @@
               <item name="Life-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Life-Algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Life-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Life-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="2.4.2_Technology-and-Expertise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Life-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Life-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="2.4.2_Technology-and-Expertise" type="462c0819:PsiDirectoryNode" />
-              <item name="规范" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Life-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Life-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="2.4.2_Technology-and-Expertise" type="462c0819:PsiDirectoryNode" />
-              <item name="规范" type="462c0819:PsiDirectoryNode" />
-              <item name="文档" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533697743147" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534330757303" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -708,12 +1137,19 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/2.4.2_Technology-and-Expertise/1/规范/3/文档" />
-      <recent name="$PROJECT_DIR$/3/Product-Me/1/UI/1/服务" />
+      <recent name="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/1" />
+      <recent name="$PROJECT_DIR$/5/Scene/3/社交场景" />
+      <recent name="$PROJECT_DIR$/5/Scene/2/用户场景/4/新居" />
+      <recent name="$PROJECT_DIR$/5/Scene/2/用户场景/4" />
+      <recent name="$PROJECT_DIR$/4/Customer-Profile/0/Relationship/家族关系/天桥" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/4/Customer-Profile/4/My-Dear-Girl/3/约会层/18_ynh" />
+      <recent name="$PROJECT_DIR$/4/Customer-Profile/1/Tutorial/3/Level-Date" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -740,12 +1176,17 @@
       <updated>1533654191544</updated>
       <workItem from="1533654192898" duration="1521000" />
       <workItem from="1533658014243" duration="1094000" />
-      <workItem from="1533693833401" duration="3053000" />
+      <workItem from="1533693833401" duration="33184000" />
+      <workItem from="1533821228796" duration="699000" />
+      <workItem from="1533829545041" duration="9159000" />
+      <workItem from="1534139720896" duration="22487000" />
+      <workItem from="1534299207706" duration="273000" />
+      <workItem from="1534299595350" duration="10939000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5668000" />
+    <option name="totallyTimeSpent" value="79356000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -757,17 +1198,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="56" y="23" width="1384" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="54" y="23" width="1386" height="877" extended-state="0" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Learn" order="4" sideWeight="0.50063694" side_tool="true" weight="0.24981357" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2637854" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19642857" />
       <window_info id="Favorites" order="6" sideWeight="0.50063694" weight="0.24962743" />
-      <window_info id="Structure" order="7" sideWeight="0.49936306" weight="0.24981357" />
+      <window_info id="Structure" order="7" sideWeight="0.49936306" weight="0.24962743" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -775,29 +1215,29 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3299363" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49925485" weight="0.3299363" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49925485" visible="true" weight="0.3299363" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007452" side_tool="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49776787" weight="0.40382165" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50223213" side_tool="true" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.23695976" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32935917" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32935917" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.50063694" side_tool="true" weight="0.24981357" />
-      <window_info id="Learn" order="5" sideWeight="0.50063694" side_tool="true" weight="0.24981357" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25671643" />
-      <window_info id="Structure" order="7" sideWeight="0.49936306" weight="0.24981357" />
+      <window_info id="Learn" order="4" sideWeight="0.50063694" side_tool="true" weight="0.24981357" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.29017857" />
+      <window_info id="Favorites" order="6" sideWeight="0.50063694" weight="0.24962743" />
+      <window_info id="Structure" order="7" sideWeight="0.49936306" weight="0.24962743" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -805,19 +1245,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3299363" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49925485" weight="0.3299363" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49925372" weight="0.3299363" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074625" side_tool="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49776787" weight="0.40382165" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50223213" side_tool="true" visible="true" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.23695976" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32935917" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32935917" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -826,53 +1266,314 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.py" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/Product-Me/1/UI/1/服务/吵架.md">
+    <entry file="file://$PROJECT_DIR$/5/Scene/0/场景算法/创造与享受.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/Product-Me/1/UI/1/服务/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1/Data-Me/3/数据存储/身高.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor>
-            <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <first_editor relative-caret-position="38">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1/Data-Me/3/数据存储/README.md">
+    <entry file="file://$PROJECT_DIR$/2.4.2_Technology-and-Expertise/Y2010/Age-of-University/革_其他/国际商法笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.4.2_Technology-and-Expertise/Y2010/Age-of-University/革_其他/公共选修课.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.4.2_Technology-and-Expertise/Y2010/Age-of-University/革_其他/企业竞争模拟/xqp笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arg.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/Scene/1/私有场景/1/洗漱场景/其他.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret column="3" selection-start-column="3" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/Scene/1/私有场景/1/洗漱场景/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="133">
+            <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/Scene/1/私有场景/1/洗漱场景/洗漱.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="209">
+            <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/Scene/1/私有场景/1/洗漱场景/金地1层.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="323">
+            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/Scene/2/用户场景/4/新居/家.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/Scene/1/私有场景/2/起居场景/选址.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/Scene/1/私有场景/2/起居场景/睡眠环境/临时/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/Scene/1/私有场景/4/储藏室/卡.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/Scene/3/社交场景/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/Scene/3/社交场景/Crossfit.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="38">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/Scene/3/社交场景/party.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/Scene/3/社交场景/礼拜.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.4.1_Workout/3/Dance/望京.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.4.1_Workout/3/Dance/莱美/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Release Notes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="76">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.4.2_Technology-and-Expertise/Y2015/Android/2/架构和组件/Square.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.2.1_专业男友/权力欲.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6/故事层/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6/Story/经典/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6/Story/电影/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6/Story/1/我的故事/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6/Story/服务/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/0/员工/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6/Story/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6/Story/经典/九尾猫.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6/Story/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6/Story/服务/主见.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="38">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.5.5_行业专家/自我发展工程学/介绍.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="456">
+            <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.5.5_行业专家/自我发展工程学/申请书.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="57">
@@ -882,7 +1583,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1/Data-Me/4/数据分析/Division/2/Mi/手机相册/README.md">
+    <entry file="file://$PROJECT_DIR$/2.5.5_行业专家/对手/对手.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6/Story/1/我的故事/得到故事.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret column="8" selection-start-column="8" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/资源层/4/缺陷算法/健康/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -890,15 +1611,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1/Data-Me/2/数据清洗/具身认知/第一部分.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1/Data-Me/4/数据分析/Division/README.md">
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/资源层/4/缺陷算法/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -906,18 +1619,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/资源层/4/缺陷算法/头发/医院.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.4.2_Technology-and-Expertise/1/规范/3/文档/IDE.md">
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/资源层/3/Money-Flow/3/盈利/资本盈利/房产/买房/共有产权房.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="133">
+            <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/资源层/4/缺陷算法/头发/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/1/人不求人一般高/上.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="114">
-            <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <first_editor relative-caret-position="-1659" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/1/人不求人一般高/下.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="450">
+            <caret line="168" selection-start-line="168" selection-end-line="168" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/1/实践主义.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="513">
+            <caret line="27" selection-start-line="27" selection-end-line="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/1/人不求人一般高/中.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="621">
+            <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/5_互惠原则.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/4_社会认同.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="51">
+            <caret line="45" selection-start-line="45" selection-end-line="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/3_稀缺性.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="437">
+            <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/5_一致性陷阱.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="209">
+            <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/2/Level-Date/0/约会学/1/谈人性/2/人性弱点/补充.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1425">
+            <caret line="75" selection-start-line="75" selection-end-line="75" />
           </first_editor>
           <second_editor />
         </state>
