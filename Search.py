@@ -32,7 +32,7 @@ def get_sequence(root):
 # 生成别名
 def get_alias(root):
     start = "ln -s " + root + " "
-  #  start = ""
+    start = ""
     sequence = get_sequence(root)
     name = os.path.basename(root)
     shell = start + sequence + "_" + name
