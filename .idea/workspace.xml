@@ -1030,8 +1030,8 @@
       <file leaf-file-name="Fast.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Fast.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="66" column="69" selection-start-line="66" selection-start-column="69" selection-end-line="66" selection-end-column="69" />
+            <state relative-caret-position="744">
+              <caret line="71" column="57" selection-start-line="71" selection-start-column="57" selection-end-line="71" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -1185,17 +1185,6 @@
             <path>
               <item name="Life-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Life-Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Life-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Life-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Data-Me" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Life-Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Life-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Data-Me" type="462c0819:PsiDirectoryNode" />
-              <item name="Division" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1364,12 +1353,12 @@
       <workItem from="1537181559903" duration="23011000" />
       <workItem from="1537334328932" duration="1207000" />
       <workItem from="1537378528552" duration="28969000" />
-      <workItem from="1537763394686" duration="12575000" />
+      <workItem from="1537763394686" duration="12721000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="340124000" />
+    <option name="totallyTimeSpent" value="340270000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1394,10 +1383,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989507" weight="0.32979664" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.7019937" visible="true" weight="0.2953621" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.7019937" visible="true" weight="0.2953621" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19793136" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19793136" />
       <window_info anchor="right" id="Database" order="7" show_stripe_button="false" weight="0.32440478" />
       <window_info id="Structure" order="6" sideWeight="0.49936306" side_tool="true" weight="0.24918832" />
       <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.2953869" />
@@ -1791,8 +1780,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Fast.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="66" column="69" selection-start-line="66" selection-start-column="69" selection-end-line="66" selection-end-column="69" />
+        <state relative-caret-position="744">
+          <caret line="71" column="57" selection-start-line="71" selection-start-column="57" selection-end-line="71" selection-end-column="57" />
         </state>
       </provider>
     </entry>

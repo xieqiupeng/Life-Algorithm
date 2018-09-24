@@ -67,3 +67,6 @@ ln -s /Volumes/SSD/Data-Me/ /Volumes/SSD/Life-Algorithm/1/Data-Me
 ln -s /Volumes/SSD/Cognition/ /Volumes/SSD/Life-Algorithm/1/Data-Me/2/数据清洗/Cognition
 ln -s /Volumes/SSD/Credential/ /Volumes/SSD/Life-Algorithm/1/Data-Me/3/数据存储/Credential
 ln -s /Volumes/SSD/iGetGet/ /Volumes/SSD/Life-Algorithm/1/Data-Me/4/数据分析/Division/1/iGetGet
+
+# wiki
+ln -s /Volumes/SSD/wiki/ /Volumes/SSD/Life-Algorithm/wiki
