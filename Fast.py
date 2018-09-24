@@ -40,7 +40,6 @@ ln -s /Volumes/SSD/Resource-Rare/ /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/4/L
 
 ln -s /Volumes/SSD/Tools-and-Weapons/ /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/4/Level-Resource/5/Tools-and-Weapons
 
-
 # Product-Me
 ln -s /Volumes/SSD/Product-Me/ /Volumes/SSD/Life-Algorithm/3/Product-Me
 
@@ -48,4 +47,12 @@ ln -s /Volumes/SSD/Level-Feeling/ /Volumes/SSD/Life-Algorithm/3/Product-Me/1/Lev
 ln -s /Volumes/SSD/Level-Trust/ /Volumes/SSD/Life-Algorithm/3/Product-Me/2/Level-Trust
 ln -s /Volumes/SSD/Intimate/ /Volumes/SSD/Life-Algorithm/3/Product-Me/3/Intimate
 
+# Customer-Profile
+
+ln -s /Volumes/SSD/Customer-Profile/ /Volumes/SSD/Life-Algorithm/4/Customer-Profile
+
+ln -s /Volumes/SSD/Level-Accost/ /Volumes/SSD/Life-Algorithm/4/Customer-Profile/1/Level-Accost
+ln -s /Volumes/SSD/Level-Date/ /Volumes/SSD/Life-Algorithm/4/Customer-Profile/2/Level-Date
+ln -s /Volumes/SSD/Level-Domesticate/ /Volumes/SSD/Life-Algorithm/4/Customer-Profile/3/Level-Domesticate
+ln -s /Volumes/SSD/Tutorial/ /Volumes/SSD/Life-Algorithm/4/Customer-Profile/4/Tutorial
 
