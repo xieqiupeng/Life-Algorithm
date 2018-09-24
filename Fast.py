@@ -48,7 +48,6 @@ ln -s /Volumes/SSD/Level-Trust/ /Volumes/SSD/Life-Algorithm/3/Product-Me/2/Level
 ln -s /Volumes/SSD/Intimate/ /Volumes/SSD/Life-Algorithm/3/Product-Me/3/Intimate
 
 # Customer-Profile
-
 ln -s /Volumes/SSD/Customer-Profile/ /Volumes/SSD/Life-Algorithm/4/Customer-Profile
 
 ln -s /Volumes/SSD/Level-Accost/ /Volumes/SSD/Life-Algorithm/4/Customer-Profile/1/Level-Accost
@@ -58,3 +57,10 @@ ln -s /Volumes/SSD/Tutorial/ /Volumes/SSD/Life-Algorithm/4/Customer-Profile/4/Tu
 
 # Scene
 ln -s /Volumes/SSD/Scene/ /Volumes/SSD/Life-Algorithm/5/Scene
+
+# Story
+ln -s /Volumes/SSD/Story/ /Volumes/SSD/Life-Algorithm/6/Story
+
+# Data-Me
+ln -s /Volumes/SSD/Data-Me/ /Volumes/SSD/Life-Algorithm/1/Data-Me
+ln -s /Volumes/SSD/iGetGet/ /Volumes/SSD/1/Data-Me/4/数据分析/Division/1/iGetGet

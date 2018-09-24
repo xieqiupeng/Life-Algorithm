@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/5/Scene/2/用户场景/1/小组/故事.md" line="3" mnemonic="3" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="5c8e71a8-19ee-4bc5-8245-d251a7ed4b44" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/1/Data-Me/4/数据分析/Division/自己的分工.md" afterDir="false" />
@@ -1033,8 +1030,8 @@
       <file leaf-file-name="Fast.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Fast.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="768">
-              <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
+            <state relative-caret-position="792">
+              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
             </state>
           </provider>
         </entry>
@@ -1356,12 +1353,12 @@
       <workItem from="1537181559903" duration="23011000" />
       <workItem from="1537334328932" duration="1207000" />
       <workItem from="1537378528552" duration="28969000" />
-      <workItem from="1537763394686" duration="11281000" />
+      <workItem from="1537763394686" duration="11723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="338830000" />
+    <option name="totallyTimeSpent" value="339272000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1783,8 +1780,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Fast.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
+        <state relative-caret-position="792">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
         </state>
       </provider>
     </entry>
