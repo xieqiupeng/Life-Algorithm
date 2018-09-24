@@ -56,3 +56,5 @@ ln -s /Volumes/SSD/Level-Date/ /Volumes/SSD/Life-Algorithm/4/Customer-Profile/2/
 ln -s /Volumes/SSD/Level-Domesticate/ /Volumes/SSD/Life-Algorithm/4/Customer-Profile/3/Level-Domesticate
 ln -s /Volumes/SSD/Tutorial/ /Volumes/SSD/Life-Algorithm/4/Customer-Profile/4/Tutorial
 
+# Scene
+ln -s /Volumes/SSD/Scene/ /Volumes/SSD/Life-Algorithm/5/Scene

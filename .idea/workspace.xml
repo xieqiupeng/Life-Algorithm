@@ -1033,8 +1033,8 @@
       <file leaf-file-name="Fast.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Fast.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="4" column="75" selection-start-line="4" selection-start-column="75" selection-end-line="4" selection-end-column="75" />
+            <state relative-caret-position="768">
+              <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -1101,8 +1101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/行业专家/1/连接/得到连接.md" />
-        <option value="$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/行业专家/1/连接/得到问题.md" />
         <option value="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/3/功能底线/底线/不稀缺/四种约束.md" />
         <option value="$PROJECT_DIR$/0/Operating-System/序号.md" />
         <option value="$PROJECT_DIR$/1/Data-Me/1/数据采集/日记/2018/09/08.md" />
@@ -1145,12 +1143,14 @@
         <option value="$PROJECT_DIR$/迁移成本排序.md" />
         <option value="$PROJECT_DIR$/2/Algorithm-Me/公布.md" />
         <option value="$PROJECT_DIR$/2/Algorithm-Me/需求.md" />
-        <option value="$PROJECT_DIR$/3/Product-Me/创新层/README.md" />
         <option value="$PROJECT_DIR$/0/认知/README.md" />
         <option value="$PROJECT_DIR$/0/认知/告诉我一个我不知道的事情.md" />
         <option value="$PROJECT_DIR$/0/认知/认知的价值.md" />
         <option value="$PROJECT_DIR$/Search.py" />
         <option value="$PROJECT_DIR$/2/Algorithm-Me/4/Level-Resource/约束.md" />
+        <option value="$PROJECT_DIR$/3/Product-Me/先发优势.md" />
+        <option value="$PROJECT_DIR$/3/Product-Me/创新层/README.md" />
+        <option value="$PROJECT_DIR$/3/Product-Me/用户价值公式.md" />
         <option value="$PROJECT_DIR$/Fast.py" />
       </list>
     </option>
@@ -1168,10 +1168,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="655" />
-    <option name="y" value="121" />
-    <option name="width" value="1932" />
-    <option name="height" value="1278" />
+    <option name="x" value="433" />
+    <option name="y" value="23" />
+    <option name="width" value="2153" />
+    <option name="height" value="1376" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -1356,12 +1356,12 @@
       <workItem from="1537181559903" duration="23011000" />
       <workItem from="1537334328932" duration="1207000" />
       <workItem from="1537378528552" duration="28969000" />
-      <workItem from="1537763394686" duration="9626000" />
+      <workItem from="1537763394686" duration="11281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="337175000" />
+    <option name="totallyTimeSpent" value="338830000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1373,7 +1373,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="655" y="121" width="1932" height="1278" extended-state="0" />
+    <frame x="433" y="23" width="2153" height="1376" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -1386,10 +1386,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989507" weight="0.32979664" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.7019937" visible="true" weight="0.44473916" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.7019937" visible="true" weight="0.2953621" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.22088143" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19793136" />
       <window_info anchor="right" id="Database" order="7" show_stripe_button="false" weight="0.32440478" />
       <window_info id="Structure" order="6" sideWeight="0.49936306" side_tool="true" weight="0.24918832" />
       <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.2953869" />
@@ -1499,8 +1499,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/行业专家/1/连接/得到分享.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/行业专家/1/连接/得到录取理由.md" />
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/行业专家/1/连接/得到录取理由2.md" />
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/行业专家/1/连接/得到大学报名问题.md" />
     <entry file="file://$PROJECT_DIR$/0/元问题/后端.md" />
@@ -1652,31 +1650,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3/Product-Me/创新层/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="629">
-            <caret line="208" lean-forward="true" selection-start-line="208" selection-end-line="208" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="816">
             <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/Product-Me/迁移成本排序.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="480">
-            <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
@@ -1770,10 +1748,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/3/Product-Me/迁移成本排序.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="480">
+            <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/Product-Me/创新层/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="614">
+            <caret line="82" column="20" lean-forward="true" selection-start-line="76" selection-end-line="82" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/Product-Me/用户价值公式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="24">
+            <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Fast.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="4" column="75" selection-start-line="4" selection-start-column="75" selection-end-line="4" selection-end-column="75" />
+        <state relative-caret-position="768">
+          <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
         </state>
       </provider>
     </entry>
