@@ -6,16 +6,28 @@
     <mapping directory="$PROJECT_DIR$/1.4.1_iGetGet" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/1/Data-Me" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/1/Data-Me/4/数据分析/Division/1/iGetGet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1/Data-Me/4/数据分析/Division/1/iGetGet/5/Economics" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2.4.2_Technology-and-Expertise" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2.4.2_Technology-and-Expertise/0/Algorithm-of-Technology" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2.4.2_Technology-and-Expertise/Y2010/Age-of-University" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2/Algorithm-Me" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/8_Aim-Chain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/其他/Aim-Chain" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/1/Tools-and-Weapons" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/2/Daily-Life" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/3/Daily-Life" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/3/Money-Flow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/4/Money-Flow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/5/Tools-and-Weapons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/Expertise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/Expertise/1/Coitus-Power/1/Workout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/Expertise/1/Coitus-Power/Communication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/Expertise/2/求生能力/2/Technology-and-Expertise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/Expertise/2/求生能力/2/Technology-and-Expertise/0/Algorithm-of-Technology" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/Expertise/2/求生能力/2/Technology-and-Expertise/Y2010/Age-of-University" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/能力层/1/Coitus-Power/Communication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/4/Career" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/2/Technology-and-Expertise" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/2/Technology-and-Expertise/0/Algorithm-of-Technology" vcs="Git" />
@@ -33,6 +45,7 @@
     <mapping directory="$PROJECT_DIR$/4/Customer-Profile/3/Level-Domesticate" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/4/Customer-Profile/4/My-Dear-Girl" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/5/Scene" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/5/Scene/0/场景算法/Relationship" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/6/Story" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Concealment" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wiki" vcs="Git" />
