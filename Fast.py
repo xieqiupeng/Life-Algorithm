@@ -41,4 +41,11 @@ ln -s /Volumes/SSD/Resource-Rare/ /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/4/L
 ln -s /Volumes/SSD/Tools-and-Weapons/ /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/4/Level-Resource/5/Tools-and-Weapons
 
 
+# Product-Me
+ln -s /Volumes/SSD/Product-Me/ /Volumes/SSD/Life-Algorithm/3/Product-Me
+
+ln -s /Volumes/SSD/Level-Feeling/ /Volumes/SSD/Life-Algorithm/3/Product-Me/1/Level-Feeling
+ln -s /Volumes/SSD/Level-Trust/ /Volumes/SSD/Life-Algorithm/3/Product-Me/2/Level-Trust
+ln -s /Volumes/SSD/Intimate/ /Volumes/SSD/Life-Algorithm/3/Product-Me/3/Intimate
+
 
