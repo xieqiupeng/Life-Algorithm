@@ -1030,8 +1030,8 @@
       <file leaf-file-name="Fast.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Fast.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="71" column="57" selection-start-line="71" selection-start-column="57" selection-end-line="71" selection-end-column="57" />
+            <state relative-caret-position="355">
+              <caret line="57" column="80" selection-start-line="57" selection-start-column="80" selection-end-line="57" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -1164,11 +1164,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="433" />
-    <option name="y" value="23" />
-    <option name="width" value="2153" />
-    <option name="height" value="1376" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="869" />
+    <option name="y" value="201" />
+    <option name="width" value="1691" />
+    <option name="height" value="1153" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -1186,17 +1186,22 @@
               <item name="Life-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Life-Algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Life-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Life-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Customer-Profile" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="得到大学&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/4/Career/2/行业专家/1/连接/得到大学报名问题.md&#10;致命的遗憾&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/5/Scene/1/私有场景/其他环境/出租屋/致命的遗憾.md&#10;tower&#9;FILE&#9;file:///Users/Cobb/Life-Algorithm/2/Algorithm-Me/2/资源层/5/Tools-and-Weapons/软件/TOWER.md&#10;bank&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/1/Data-Me/3/数据存储/Bank.md&#10;gradle&#9;FILE&#9;file:///Users/Cobb/Life-Algorithm/2.4.2_Technology-and-Expertise/1/规范/1/依赖管理/2_Gradle" />
+    <property name="SearchEverywhereHistoryKey" value="relation&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/5/Scene/0/场景算法/Relationship&#10;cogn&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/1/Data-Me/2/数据清洗/Cognition&#10;得到大学&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/4/Career/2/行业专家/1/连接/得到大学报名问题.md&#10;致命的遗憾&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/5/Scene/1/私有场景/其他环境/出租屋/致命的遗憾.md&#10;tower&#9;FILE&#9;file:///Users/Cobb/Life-Algorithm/2/Algorithm-Me/2/资源层/5/Tools-and-Weapons/软件/TOWER.md&#10;bank&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/1/Data-Me/3/数据存储/Bank.md&#10;gradle&#9;FILE&#9;file:///Users/Cobb/Life-Algorithm/2.4.2_Technology-and-Expertise/1/规范/1/依赖管理/2_Gradle" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536550664912" />
@@ -1353,12 +1358,13 @@
       <workItem from="1537181559903" duration="23011000" />
       <workItem from="1537334328932" duration="1207000" />
       <workItem from="1537378528552" duration="28969000" />
-      <workItem from="1537763394686" duration="12721000" />
+      <workItem from="1537763394686" duration="12980000" />
+      <workItem from="1537852373376" duration="2211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="340270000" />
+    <option name="totallyTimeSpent" value="342740000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1370,7 +1376,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="433" y="23" width="2153" height="1376" extended-state="0" />
+    <frame x="869" y="201" width="1691" height="1153" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -1378,15 +1384,15 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50104934" side_tool="true" weight="0.32979664" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.299661" side_tool="true" weight="0.32306165" />
       <window_info anchor="right" id="Maven Projects" order="8" show_stripe_button="false" weight="0.23034735" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989507" weight="0.32979664" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.7019937" visible="true" weight="0.2953621" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.70033896" visible="true" weight="0.32306165" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19793136" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25285286" />
       <window_info anchor="right" id="Database" order="7" show_stripe_button="false" weight="0.32440478" />
       <window_info id="Structure" order="6" sideWeight="0.49936306" side_tool="true" weight="0.24918832" />
       <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.2953869" />
@@ -1405,34 +1411,34 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" sideWeight="0.49776787" weight="0.25188375" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.2953869" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32912722" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.28542373" />
+      <window_info id="Structure" order="6" sideWeight="0.49936306" side_tool="true" weight="0.24918832" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="6" sideWeight="0.50063694" side_tool="true" weight="0.24925596" />
-      <window_info anchor="bottom" id="Thumbnails" order="11" sideWeight="0.49776787" weight="0.25188375" />
-      <window_info id="Structure" order="7" sideWeight="0.49936306" side_tool="true" weight="0.24962743" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.2953869" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4985119" weight="0.3299363" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info id="Learn" order="4" sideWeight="0.50063694" side_tool="true" weight="0.24981357" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5082267" weight="0.27969018" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Learn" order="4" sideWeight="0.50063694" side_tool="true" weight="0.24981357" />
+      <window_info anchor="right" id="Database" order="7" show_stripe_button="false" weight="0.32440478" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.70033896" visible="true" weight="0.32306165" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.299661" side_tool="true" visible="true" weight="0.32306165" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49925485" weight="0.3299363" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.4917733" side_tool="true" weight="0.27969018" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989507" weight="0.32979664" />
       <window_info id="Capture Tool" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Database" order="7" weight="0.32440478" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.23034735" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.31375465" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="8" show_stripe_button="false" weight="0.23034735" />
+      <window_info id="Favorites" order="7" sideWeight="0.50063694" side_tool="true" weight="0.24918832" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1496,6 +1502,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Fast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/行业专家/1/连接/得到录取理由2.md" />
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/行业专家/1/连接/得到大学报名问题.md" />
     <entry file="file://$PROJECT_DIR$/0/元问题/后端.md" />
@@ -1543,26 +1556,8 @@
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/0/Mood/2/Point-Pain/README.md" />
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/0/Mood/生物性情绪.md" />
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/生物性情绪.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Expertise/1/Coitus-Power/Humor/3.2.1_段子/男人/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="144">
-            <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Expertise/1/Coitus-Power/Humor/3.2.1_幽默算法/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="4" selection-start-column="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Expertise/1/Coitus-Power/Humor/3.2.1_段子/男人/README.md" />
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Expertise/1/Coitus-Power/Humor/3.2.1_幽默算法/README.md" />
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/2/Point-Pain/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1610,14 +1605,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/1/Point-High/舒适.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/1/Point-High/舒适.md" />
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/存在感.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1727,14 +1715,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Expertise/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-181" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Expertise/README.md" />
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/4/Level-Resource/约束.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1775,13 +1756,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/.gitmodules">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Fast.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="71" column="57" selection-start-line="71" selection-start-column="57" selection-end-line="71" selection-end-column="57" />
+        <state relative-caret-position="355">
+          <caret line="57" column="80" selection-start-line="57" selection-start-column="80" selection-end-line="57" selection-end-column="80" />
         </state>
       </provider>
     </entry>

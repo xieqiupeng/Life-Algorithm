@@ -18,6 +18,7 @@ ln -s /Volumes/SSD/Value-Final/ /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/2/Str
 ln -s /Volumes/SSD/Value-Peak/ /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/2/Strategy/2/Value-Peak
 ln -s /Volumes/SSD/Bottom-Line/ /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/2/Strategy/3/Bottom-Line
 
+ln -s /Volumes/SSD/Economics/ /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/2/Strategy/3/Bottom-Line/3/Economics
 ln -s /Volumes/SSD/Aim-Chain/ /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/2/Strategy/其他/Aim-Chain
 
 # Career
@@ -54,6 +55,7 @@ ln -s /Volumes/SSD/Level-Accost/ /Volumes/SSD/Life-Algorithm/4/Customer-Profile/
 ln -s /Volumes/SSD/Level-Date/ /Volumes/SSD/Life-Algorithm/4/Customer-Profile/2/Level-Date
 ln -s /Volumes/SSD/Level-Domesticate/ /Volumes/SSD/Life-Algorithm/4/Customer-Profile/3/Level-Domesticate
 ln -s /Volumes/SSD/Tutorial/ /Volumes/SSD/Life-Algorithm/4/Customer-Profile/4/Tutorial
+ln -s /Volumes/SSD/Relationship /Volumes/SSD/Life-Algorithm/4/Customer-Profile/5/Relationship
 
 # Scene
 ln -s /Volumes/SSD/Scene/ /Volumes/SSD/Life-Algorithm/5/Scene
@@ -67,6 +69,8 @@ ln -s /Volumes/SSD/Data-Me/ /Volumes/SSD/Life-Algorithm/1/Data-Me
 ln -s /Volumes/SSD/Cognition/ /Volumes/SSD/Life-Algorithm/1/Data-Me/2/数据清洗/Cognition
 ln -s /Volumes/SSD/Credential/ /Volumes/SSD/Life-Algorithm/1/Data-Me/3/数据存储/Credential
 ln -s /Volumes/SSD/iGetGet/ /Volumes/SSD/Life-Algorithm/1/Data-Me/4/数据分析/Division/1/iGetGet
+
+ln -s /Volumes/SSD/Economics/ /Volumes/SSD/Life-Algorithm/1/Data-Me/4/数据分析/Division/1/iGetGet/5/Economics
 
 # wiki
 ln -s /Volumes/SSD/wiki/ /Volumes/SSD/Life-Algorithm/wiki
