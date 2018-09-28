@@ -1026,12 +1026,12 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+    <leaf>
       <file leaf-file-name="Fast.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Fast.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="57" column="80" selection-start-line="57" selection-start-column="80" selection-end-line="57" selection-end-column="80" />
+            <state relative-caret-position="368">
+              <caret line="49" column="45" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -1047,10 +1047,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>unzip</find>
-      <find>稀缺</find>
-      <find>技能树</find>
-      <find>军工六性</find>
       <find>共产</find>
       <find>行动</find>
       <find>张嘉玉</find>
@@ -1077,6 +1073,10 @@
       <find>，</find>
       <find>幽默</find>
       <find>get_alias</find>
+      <find>用户画像</find>
+      <find>soci</find>
+      <find>说服术</find>
+      <find>maven</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -1098,19 +1098,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/3/功能底线/底线/不稀缺/四种约束.md" />
-        <option value="$PROJECT_DIR$/0/Operating-System/序号.md" />
-        <option value="$PROJECT_DIR$/1/Data-Me/1/数据采集/日记/2018/09/08.md" />
-        <option value="$PROJECT_DIR$/../ToLove/2/Algorithm-Me/2/资源层/2/房产价值/2/居住服务价值/1/安全价值/致命的遗憾.md" />
-        <option value="$PROJECT_DIR$/../ToLove/2/Algorithm-Me/2/资源层/2/房产价值/2/居住服务价值/1/安全价值/README.md" />
-        <option value="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/3/房产价值/README.md" />
-        <option value="$PROJECT_DIR$/../ToLive/2/Algorithm-Me/2/资源层/1/不稀缺/价格.md" />
-        <option value="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/其他/价格目的.md" />
-        <option value="$PROJECT_DIR$/2/Algorithm-Me/3/Expertise/盈利.md" />
-        <option value="$PROJECT_DIR$/7/Recommendation-Algorithm/README.md" />
-        <option value="$PROJECT_DIR$/1/Data-Me/4/数据分析/Division/1/iGetGet/4/罗辑思维/69迷茫时代的明白人.md" />
-        <option value="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/痛点_痒点_爽点.md" />
-        <option value="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/README.md" />
         <option value="$PROJECT_DIR$/2/Algorithm-Me/2/Level-Resource/拥有和利用.md" />
         <option value="$PROJECT_DIR$/2/Algorithm-Me/2/Level-Resource/延展.md" />
         <option value="$PROJECT_DIR$/2/Algorithm-Me/2/Level-Resource/速度和精度.md" />
@@ -1148,6 +1135,19 @@
         <option value="$PROJECT_DIR$/3/Product-Me/先发优势.md" />
         <option value="$PROJECT_DIR$/3/Product-Me/创新层/README.md" />
         <option value="$PROJECT_DIR$/3/Product-Me/用户价值公式.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/6/Market/2/Market-Trust/README.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/6/Market/1/Market-Desire/README.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/6/Market/3/Market-Family/README.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/6/Market/Fast.py" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/3/知乎/README.md" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/知乎.md" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/4/Career/3/Coitus-Power/Communication/说服术/说服术.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/6/Market/3/Market-Welcome/2/社交货币/贬值.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/6/Market/3/Market-Welcome/2/社交货币/社交货币.md" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/3/live/2/Family/祖训的纰漏.md" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/1/Resource-Investment/2/Perfect-Body/README.md" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/1/iGetGet/5/Economics/4/需要协调/通货膨胀.md" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/6/Market/上线.md" />
         <option value="$PROJECT_DIR$/Fast.py" />
       </list>
     </option>
@@ -1164,11 +1164,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="869" />
-    <option name="y" value="201" />
-    <option name="width" value="1691" />
-    <option name="height" value="1153" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="219" />
+    <option name="y" value="86" />
+    <option name="width" value="1997" />
+    <option name="height" value="1263" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -1179,6 +1179,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1189,19 +1192,30 @@
             <path>
               <item name="Life-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Life-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Customer-Profile" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm-Me" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Life-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Life-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="Level-Resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Life-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Life-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="relation&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/5/Scene/0/场景算法/Relationship&#10;cogn&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/1/Data-Me/2/数据清洗/Cognition&#10;得到大学&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/4/Career/2/行业专家/1/连接/得到大学报名问题.md&#10;致命的遗憾&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/5/Scene/1/私有场景/其他环境/出租屋/致命的遗憾.md&#10;tower&#9;FILE&#9;file:///Users/Cobb/Life-Algorithm/2/Algorithm-Me/2/资源层/5/Tools-and-Weapons/软件/TOWER.md&#10;bank&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/1/Data-Me/3/数据存储/Bank.md&#10;gradle&#9;FILE&#9;file:///Users/Cobb/Life-Algorithm/2.4.2_Technology-and-Expertise/1/规范/1/依赖管理/2_Gradle" />
+    <property name="SearchEverywhereHistoryKey" value="边界&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/3/Ecology-Niche/边界.md&#10;Econo&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/2/Strategy/3/Bottom-Line/3/Economics&#10;relation&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/5/Scene/0/场景算法/Relationship&#10;cogn&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/1/Data-Me/2/数据清洗/Cognition&#10;得到大学&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/4/Career/2/行业专家/1/连接/得到大学报名问题.md&#10;致命的遗憾&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/5/Scene/1/私有场景/其他环境/出租屋/致命的遗憾.md&#10;tower&#9;FILE&#9;file:///Users/Cobb/Life-Algorithm/2/Algorithm-Me/2/资源层/5/Tools-and-Weapons/软件/TOWER.md&#10;bank&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/1/Data-Me/3/数据存储/Bank.md&#10;gradle&#9;FILE&#9;file:///Users/Cobb/Life-Algorithm/2.4.2_Technology-and-Expertise/1/规范/1/依赖管理/2_Gradle" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536550664912" />
@@ -1216,19 +1230,19 @@
     <property name="tags.panel.proportion" value="0.5" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/3/Product-Me" />
-      <recent name="$PROJECT_DIR$/2/Algorithm-Me/0/Mood" />
-      <recent name="$PROJECT_DIR$/2/Algorithm-Me" />
-      <recent name="$PROJECT_DIR$/0/Operating-System" />
-      <recent name="$PROJECT_DIR$/2/Algorithm-Me/0/元问题" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/4/Customer-Profile/6/Market" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/2/Algorithm-Me/0/元问题" />
       <recent name="$PROJECT_DIR$/2/Algorithm-Me/2/Level-Resource/4/稀缺" />
       <recent name="$PROJECT_DIR$/2/Algorithm-Me/2/Level-Resource/3/Resource-Estate" />
-      <recent name="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/4/Customer-Profile/6/Market/3/Market-Welcome/2/社交货币" />
+      <recent name="$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/2/love" />
+      <recent name="$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche" />
+      <recent name="$PROJECT_DIR$/4/Customer-Profile/6/Market/3/Market-Family" />
+      <recent name="$PROJECT_DIR$/4/Customer-Profile/5/Link" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1359,12 +1373,20 @@
       <workItem from="1537334328932" duration="1207000" />
       <workItem from="1537378528552" duration="28969000" />
       <workItem from="1537763394686" duration="12980000" />
-      <workItem from="1537852373376" duration="2211000" />
+      <workItem from="1537852373376" duration="2565000" />
+      <workItem from="1537863835788" duration="17000" />
+      <workItem from="1537863911340" duration="5472000" />
+      <workItem from="1537945801388" duration="1085000" />
+      <workItem from="1537959058390" duration="664000" />
+      <workItem from="1538015836270" duration="4320000" />
+      <workItem from="1538034044921" duration="3563000" />
+      <workItem from="1538045092071" duration="1787000" />
+      <workItem from="1538104897245" duration="4807000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="342740000" />
+    <option name="totallyTimeSpent" value="364809000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1376,7 +1398,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="869" y="201" width="1691" height="1153" extended-state="0" />
+    <frame x="219" y="86" width="1997" height="1263" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -1384,16 +1406,17 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.299661" side_tool="true" weight="0.32306165" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.30050364" side_tool="true" weight="0.3189046" />
       <window_info anchor="right" id="Maven Projects" order="8" show_stripe_button="false" weight="0.23034735" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989507" weight="0.32979664" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.70033896" visible="true" weight="0.32306165" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.6994964" visible="true" weight="0.6075269" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25285286" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21359716" />
       <window_info anchor="right" id="Database" order="7" show_stripe_button="false" weight="0.32440478" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32912722" />
       <window_info id="Structure" order="6" sideWeight="0.49936306" side_tool="true" weight="0.24918832" />
       <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.2953869" />
       <window_info id="UI Designer" order="2" />
@@ -1407,7 +1430,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Thumbnails" order="11" sideWeight="0.49776787" weight="0.25188375" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32912722" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -1417,8 +1439,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.2953869" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32912722" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.28542373" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22868006" />
       <window_info id="Structure" order="6" sideWeight="0.49936306" side_tool="true" weight="0.24918832" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4985119" weight="0.3299363" />
@@ -1427,14 +1448,15 @@
       <window_info id="Designer" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32912722" />
       <window_info id="Learn" order="4" sideWeight="0.50063694" side_tool="true" weight="0.24981357" />
       <window_info anchor="right" id="Database" order="7" show_stripe_button="false" weight="0.32440478" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.70033896" visible="true" weight="0.32306165" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.299661" side_tool="true" visible="true" weight="0.32306165" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.6994964" visible="true" weight="0.43548387" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.30050364" side_tool="true" weight="0.3189046" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989507" weight="0.32979664" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Maven Projects" order="8" show_stripe_button="false" weight="0.23034735" />
@@ -1502,30 +1524,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Fast.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1032">
-          <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/行业专家/1/连接/得到录取理由2.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/行业专家/1/连接/得到大学报名问题.md" />
-    <entry file="file://$PROJECT_DIR$/0/元问题/后端.md" />
-    <entry file="file://$PROJECT_DIR$/3/Product-Me/前端/REAMDE.md" />
-    <entry file="file://$PROJECT_DIR$/3/Product-Me/0/矛盾.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="288">
-            <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ToLove/2/Algorithm-Me/2/Level-Resource/稀缺/价格.md" />
-    <entry file="file://$PROJECT_DIR$/../ToLove/2/Algorithm-Me/2/Level-Resource/稀缺/README.md" />
-    <entry file="file://$PROJECT_DIR$/0/Operating-System/亲密.md">
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/3/Bottom-Line/3/Economics/1/东西不够/租是对资产的付费.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -1533,53 +1532,157 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/0/Mood/痛点_痒点_爽点.md" />
-    <entry file="file://$PROJECT_DIR$/0/元问题/后端.md">
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/3/Bottom-Line/3/Economics/1/东西不够/寻租.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/3/Bottom-Line/3/Economics/1/东西不够/科斯定律.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/3/Bottom-Line/3/Economics/1/东西不够/需求三定律/需求第一定律.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/3/Bottom-Line/3/Economics/1/东西不够/需求三定律/需求第二定律.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/3/Bottom-Line/3/Economics/1/东西不够/需求三定律/需求第三定律.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/3/Bottom-Line/3/Economics/1/东西不够/竞争/1_竞争规则.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/3/Bottom-Line/3/Economics/1/东西不够/竞争/2_最优竞争规则.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/3/Bottom-Line/3/Economics/2/生命有限/投资是时间维度的平衡消费.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/3/Bottom-Line/3/Economics/3/相互依赖/婚姻经济学.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/3/Bottom-Line/3/Economics/4/需要协调/脱贫致富.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/6/Market/2/Market-Trust/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret column="6" selection-start-column="6" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/6/Market/1/Market-Desire/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret column="6" selection-start-column="6" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/6/Market/3/Market-Welcome/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="3" selection-start-column="3" selection-end-column="3" />
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/3/Bottom-Line/README.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/2/Value-Peak/README的副本.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/2/Value-Peak/README.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/1/Value-Final/README.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/0/Mood/1/Point-High/天分.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/0/Mood/1/Point-High/README.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/0/Mood/1/Point-High/不爽.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/0/Mood/1/Point-High/满足.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/0/Mood/存在感.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/0/Mood/2/Point-Pain/README.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/0/Mood/生物性情绪.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/生物性情绪.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Expertise/1/Coitus-Power/Humor/3.2.1_段子/男人/README.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Expertise/1/Coitus-Power/Humor/3.2.1_幽默算法/README.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/2/Point-Pain/README.md">
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/0/用户画像/交往方式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="120">
-            <caret line="5" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/痛点_痒点_爽点.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/3/Point-Itchy/README.md">
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/.gitmodules" />
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/5/Relationship/团体关系/README.md" />
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/0/用户画像/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="120">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/3/Point-Itchy/强大.md">
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/6/Market/Fast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/6/生态/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor />
@@ -1587,7 +1690,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/3/Point-Itchy/愤怒.md">
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/自己的分工.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/地位.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/2/love/分工.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor />
@@ -1595,18 +1714,157 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/1/Point-High/README.md">
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/2/自如/README.md" />
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/自如.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="24">
-            <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/线上.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/2/极客/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/知乎.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="88">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/1/Point-High/舒适.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/存在感.md">
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/3/知乎/README.md" />
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/3/Gnix/README.md" />
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/4/公司/README.md" />
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/2/love/猩猩/README.md" />
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/2/极客/公司/人事位.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/2/love/3/聚会/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/4/Career/3/Coitus-Power/Communication/说服术/说服术.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="7" selection-start-column="7" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/6/Market/3/Market-Welcome/2/社交货币/贬值.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret column="6" selection-start-column="6" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/6/Market/3/Market-Welcome/2/社交货币/社交货币.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="536">
+            <caret line="91" selection-start-line="91" selection-end-line="91" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/6/Market/3/Market-Welcome/2/社交货币/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/3/live/2/Family/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/边界.md" />
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/边界.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/1/Resource-Investment/1/算法/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/1/Resource-Investment/2/Perfect-Body/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret column="9" selection-start-column="9" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/1/iGetGet/5/Economics/4/需要协调/通货膨胀.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="538">
+            <caret line="163" selection-start-line="163" selection-end-line="163" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/Technology-and-Expertise/1/规范/1/依赖管理/3_Maven/mvn命令.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="352">
+            <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/Technology-and-Expertise/1/规范/1/依赖管理/3_Maven/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor>
@@ -1616,141 +1874,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/需求.md">
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/1/iGetGet/5/Economics/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="24">
-            <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <first_editor relative-caret-position="44">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/公布.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/命运.md">
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/6/Market/上线.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="816">
-            <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0/认知/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="120">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0/认知/告诉我一个我不知道的事情.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="168">
-            <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0/认知/认知的价值.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="384">
-            <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/Product-Me/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="456">
-            <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Key.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Expertise/README.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/4/Level-Resource/约束.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="120">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/Product-Me/迁移成本排序.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="480">
-            <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/Product-Me/创新层/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="614">
-            <caret line="82" column="20" lean-forward="true" selection-start-line="76" selection-end-line="82" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/Product-Me/用户价值公式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="24">
-            <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
@@ -1758,8 +1896,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Fast.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="57" column="80" selection-start-line="57" selection-start-column="80" selection-end-line="57" selection-end-column="80" />
+        <state relative-caret-position="368">
+          <caret line="49" column="45" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
         </state>
       </provider>
     </entry>
