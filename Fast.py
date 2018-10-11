@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # coding=utf-8
 
+#
+ln -s /Volumes/SSD/Operating-System/ ./0/Operating-System
+
 # Algorithm-Me
 ln -s /Volumes/SSD/Algorithm-Me/ /Volumes/SSD/Life-Algorithm/2/Algorithm-Me
 

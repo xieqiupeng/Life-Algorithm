@@ -3,49 +3,55 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/0/Operating-System" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/1.4.1_iGetGet" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/1/Data-Me" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/1/Data-Me/4/数据分析/Division/1/iGetGet" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/1/Data-Me/4/数据分析/Division/1/iGetGet/5/Economics" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2.4.2_Technology-and-Expertise" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2.4.2_Technology-and-Expertise/0/Algorithm-of-Technology" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2.4.2_Technology-and-Expertise/Y2010/Age-of-University" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1/Data-Me/2/数据清洗/Cognition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1/Data-Me/3/数据存储/Credential" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2/Algorithm-Me" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/8_Aim-Chain" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/1/Strategy/其他/Aim-Chain" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/1/Tools-and-Weapons" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/2/Daily-Life" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/3/Daily-Life" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/3/Money-Flow" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/4/Money-Flow" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/资源层/5/Tools-and-Weapons" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/Expertise" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/Expertise/1/Coitus-Power/1/Workout" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/Expertise/1/Coitus-Power/Communication" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/Expertise/2/求生能力/2/Technology-and-Expertise" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/Expertise/2/求生能力/2/Technology-and-Expertise/0/Algorithm-of-Technology" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/Expertise/2/求生能力/2/Technology-and-Expertise/Y2010/Age-of-University" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/能力层/1/Coitus-Power/Communication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/1/Mood" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/1/Mood/1/Point-High" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/1/Mood/2/Point-Pain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/1/Mood/3/Point-Itchy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/1/Perfect-Flesh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/1/Perfect-Flesh/Workout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/2/Value-Peak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/3/Bottom-Line" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/3/Bottom-Line/3/Economics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/其他/Aim-Chain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/1/iGetGet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/1/iGetGet/5/Economics" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/4/Career" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/1/Workout" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/2/Technology-and-Expertise" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/2/Technology-and-Expertise/0/Algorithm-of-Technology" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/4/Expertise/2/Technology-and-Expertise/Y2010/Age-of-University" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/5/Career" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/Expertise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/Technology-and-Expertise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/Technology-and-Expertise/0/Algorithm-of-Technology" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/Technology-and-Expertise/Y2010/Age-of-University" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/4/Career/3/Coitus-Power" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/4/Career/3/Coitus-Power/Communication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/4/Career/3/Coitus-Power/Workout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/1/Attention" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/2/Time-Currency" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/3/Resource-Estate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/5/Gnix-Pet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/6/Money-Flow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/7/Tools-and-Weapons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/3/Product-Me" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/3/Product-Me/1/UI" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/4.4_My-Dear-Girl" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/4/Customer-Profile" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/4/Customer-Profile/0/Relationship" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/4/Customer-Profile/0/Tutorial" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/4/Customer-Profile/0/业务圈/Do-Things" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/4/Customer-Profile/1/Level-Accost" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/4/Customer-Profile/2/Level-Date" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/4/Customer-Profile/3/Level-Domesticate" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/4/Customer-Profile/4/My-Dear-Girl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3/Product-Me/1/Level-Feeling" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3/Product-Me/2/Level-Trust" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3/Product-Me/3/Intimate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3/Product-Me/3/Intimate/3/Level-Role" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4/Customer-Profile/1/Relationship" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4/Customer-Profile/1/Relationship/1/Level-Accost" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4/Customer-Profile/1/Relationship/2/Level-Date" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4/Customer-Profile/1/Relationship/3/Level-Domesticate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4/Customer-Profile/4/Tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4/Customer-Profile/5/Link" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4/Customer-Profile/6/Market" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/4/Customer-Profile/6/Market/3/Market-Welcome/1/Society" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/5/Scene" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/5/Scene/0/场景算法/Relationship" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/6/Story" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Concealment" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wiki" vcs="Git" />
