@@ -2,12 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c8e71a8-19ee-4bc5-8245-d251a7ed4b44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0/元问题/习惯的力量.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0/元问题/元问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/Scene/0/场景算法/势/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/Scene/0/场景算法/场/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5/Scene/消费.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/Expertise/1/业务/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/Expertise/1/业务/浮.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0/Operating-System" beforeDir="false" afterPath="$PROJECT_DIR$/0/Operating-System" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0/Operating-System/序号.md" beforeDir="false" afterPath="$PROJECT_DIR$/0/Operating-System/序号.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/其他/Aim-Chain/2_业务算法/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/其他/Aim-Chain/win/porn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/其他/Aim-Chain/目标.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/其他/Aim-Chain/租房算法/租房算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/自如.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/自如.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/Expertise/1/理想的工作/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/Expertise/1/理想的工作/主观能动值.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/Expertise/1/理想的工作/信息与地位.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/Expertise/1/理想的工作/准租/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/Expertise/1/理想的工作/实例/宜信.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/Expertise/1/理想的工作/实例/小米.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/Expertise/1/理想的工作/实例/罗辑思维.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/Expertise/1/理想的工作/实例/车和家.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/Expertise/1/理想的工作/实例/阿里.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/Expertise/1/理想的工作/实例/阿里级别.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/Expertise/1/理想的工作/程序员的运气.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/Expertise/1/理想的工作/策略.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/理想的工作/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/理想的工作/主观能动值.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/1/理想的工作/信息与地位.md" beforeDir="false" />
@@ -53,6 +70,8 @@
       <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/行业专家/自我发展工程学/目录.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/行业专家/自我发展工程学/算法/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/0/3/角色/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/行业专家/青春.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/3/Coitus-Power/Communication" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/3/Coitus-Power/Communication" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/3/Coitus-Power/Communication/说服术/说服术.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/3/Coitus-Power/Communication/说服术/说服术.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/3/角色/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/3/角色/创业心态.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/0/3/角色/创业心态.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/3/角色/创业者.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/0/3/角色/创业者.md" afterDir="false" />
@@ -127,6 +146,322 @@
       <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/6/resume/旧模块/绿朵康.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/6/resume/旧模块/谢秋鹏安卓简历-v1603211025.gdoc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/4/Career/6/resume/旧模块/谢秋鹏安卓简历-v1603211025.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/1/Attention/活在当下.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/1/Attention/活在当下.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/1/Resource-Investment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/2/Resource-Consumption" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/3/Resource-Estate/拆迁/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/3/Resource-Estate/拆迁/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/3/Resource-Estate/拆迁/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/3/Resource-Estate/拆迁/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/3/Resource-Estate/拆迁/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/3/Resource-Estate/拆迁/亲戚.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/3/Resource-Estate/拆迁/珠粮街区补偿方案.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/3/Resource-Estate/拆迁/腾退.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/3/Resource-Estate/政策房/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/3/Resource-Estate/政策房/公租房.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/3/Resource-Estate/政策房/共有产权房.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/3/Resource-Estate/租房/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/3/Resource-Estate/遗产.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/3/Resource-Estate/限价房.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/3/Resource-Export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/4/Resource-Estate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/5/Gnix-Pet/1/搭讪层/1/过去/6_zjy/心花路放.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/5/Resource-Rare" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/为什么不告诉她.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/学生诚信卡片/学生诚信卡片.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/学生诚信卡片/学生诚信卡片_files/1004030124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/学生诚信卡片/学生诚信卡片_files/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/学生诚信卡片/学生诚信卡片_files/portal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/学生诚信卡片/学生诚信卡片_files/tick.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/照片/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/照片/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/照片/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/照片/4fad7d6c44028f278b11b&amp;690.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/照片/4fad7d6c4414c73152ae8&amp;690.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/照片/kb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/照片/nr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/照片/ysj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/照片/zhb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/纯洁.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/10_ysj/颜署佳.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/13_lmy/年纪.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/13_lmy/应聘运营实习生-李美玉-lvdora-简历.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/13_lmy/李美玉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/学校.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/小组.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/感动/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/感动/减脂.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/搬家/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/杨永晴.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/照片/yyq1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/照片/yyq2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/照片/yyq3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/照片/yyq4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/照片/yyq5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/美赛思国际教育.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/记录/20180422.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/记录/20180428.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/记录/20180510.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/记录/20180602.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/14_yyq/记录/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/6_zjy/学生诚信卡片/学生诚信卡片_files/1109010229.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/6_zjy/学生诚信卡片/学生诚信卡片_files/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/6_zjy/学生诚信卡片/学生诚信卡片_files/portal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/1/过去/6_zjy/学生诚信卡片/学生诚信卡片_files/tick.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/2/斗争/16_zlf/小组.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/2/斗争/16_zlf/郑凌峰.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/2/斗争/3_zeh/关系.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/2/斗争/3_zeh/周尔航.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/2/斗争/3_zeh/年龄.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/2/斗争/3_zeh/男朋友.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/2/斗争/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/2/斗争/诱惑关系.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/3/陌生/23_xx/欣欣.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/3/陌生/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/其他/4_zyq/张裕琪.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/其他/7_zly/别太认真.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/其他/7_zly/赵鹿阳.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/其他/8_lt/压力.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/其他/8_lt/陆彤.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/拉黑/12_xcx/交流.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/拉黑/12_xcx/取舍.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/拉黑/12_xcx/徐春晓.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/拉黑/12_xcx/徐春晓的阻力.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/拉黑/12_xcx/我的难题.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/拉黑/12_xcx/生日.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/拉黑/15_wly/王丽雅.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/拉黑/1_lxc/09级学号与专业.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/拉黑/1_lxc/revenge.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/拉黑/1_lxc/刘晓淳.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/拉黑/24_syf/CV-孙语唯2018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/拉黑/24_syf/孙亚飞.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/拉黑/24_syf/记录/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/拉黑/24_syf/车.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/1/搭讪层/拉黑/29_gys/郭颖硕.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/2/聊天层/20_yyy/杨云云.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/2/聊天层/22_txl/抢票.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/2/聊天层/22_txl/照片/txl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/2/聊天层/22_txl/田雪亮.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/2/聊天层/不表白.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/3/约会层/17_xmy/角色.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/3/约会层/17_xmy/记录/20180504.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/3/约会层/17_xmy/记录/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/3/约会层/17_xmy/许梦雨.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/3/约会层/27_cw/崔巍.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/3/约会层/28_zh/婚后.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/3/约会层/28_zh/祝红.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/3/约会层/28_zh/网球.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/3/约会层/28_zh/记录/20180505.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/21_xn/其他/小米电磁炉事件.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/21_xn/薛宁.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/21_xn/逻辑/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/21_xn/逻辑/说谎.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/1/记录/2018/08/09.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/1/记录/2018/08/16.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/1/记录/2018/08/17.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/1/记录/2018/08/18.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/1/记录/2018/08/20.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/1/记录/2018/08/24.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/1/记录/2018/08/27.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/1/记录/2018/09/20180901.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/1/记录/2018/1_更早/20180504.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/1/记录/2018/1_更早/20180531.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/1/记录/2018/1_更早/20180602.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/1/记录/2018/1_更早/20180610.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/1/记录/2018/1_更早/20180722.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/价格区间.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/升级点/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/感动/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/感动/我的感动.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/斗争/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/男友/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/背景/医院.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/背景/学校.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/背景/家庭.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/背景/张家口.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/25_gly/顾凌云.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/26_zyz/rent.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/26_zyz/信任.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/26_zyz/借条.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/26_zyz/地点.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/26_zyz/张玉珍.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/4/男女朋友层/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/5/婚姻层/18_ynh/升级点/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/5/婚姻层/18_ynh/反思/20180201.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/5/婚姻层/18_ynh/感动/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/5/婚姻层/18_ynh/感动/沉默算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/5/婚姻层/18_ynh/感动/舒适.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/5/婚姻层/18_ynh/报复/怕.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/5/婚姻层/18_ynh/报复/聪明.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/5/婚姻层/18_ynh/报复/话题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/5/婚姻层/18_ynh/照片/ynh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/5/婚姻层/18_ynh/记录/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/5/婚姻层/18_ynh/记录/生日礼物.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/5/婚姻层/18_ynh/闫恩晖.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/5/My-Dear-Girl/5/婚姻层/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/3.1.1_健身关系/1_健身关系/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/3.1.1_健身关系/1_健身关系/乐客.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/3.1.1_健身关系/1_健身关系/猩猩.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/3.1.1_健身关系/1_健身关系/网球.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/3.1.1_健身关系/1_健身关系/金地.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/3.1.1_健身关系/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/Jo训练营.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/focus周末单车.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/乐刻训练营.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/健身房.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/猩猩团体课.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/米动减脂营/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/米动减脂营/体脂称.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/米动减脂营/手表.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/米动减脂营/管理.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.2_外包/米动减脂营/饮食服务.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.4_反馈/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.4_反馈/体检/慈铭体检.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/3.1.4_反馈/心率.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/体脂.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/健康科学/减肥/体脂.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/健康科学/减肥/减肥.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/健康科学/减肥/减肥健身.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/健康科学/减肥/负面情绪.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/健康科学/有氧算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/健康科学/身材和体型.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/健康科学/运动条件.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/健康科学/饮食锻炼.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/增肌.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/备用场景/浩沙健身/办理健身卡的考虑_健身条件.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/备用场景/浩沙健身/浩沙.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/备用场景/浩沙健身/浩沙各店单车时间.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/心理战/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/心理战/优化.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/心理战/具身认知.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/心理战/厌倦.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/心理战/奖惩制度.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/心理战/灵魂.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/心理战/由外到内和由内到外.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/心理战/知识，经验，态度.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/心理战/耐心.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/心理战/长期投资.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/0_减脂算法/瓶颈.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/0/张展辉/1_心肺功能是基础.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/0/张展辉/2_如何科学有效的减肥.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/0/张展辉/3_柔韧度很要命.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/0/张展辉/4_肌肉耐力.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/0/张展辉/5_肌肉力量可以应对突发状况.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/0/张展辉/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/0/张展辉/减肥方式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/0/张展辉/心率监测.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/0/张展辉/心肺功能.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/0/张展辉/饮食.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/1/睡眠/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/1/睡眠/睡眠算法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/2/Dance/Music.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/2/Dance/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/2/Dance/望京.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/2/Dance/莱美/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/3/肌肉训练/EPOC.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/3/肌肉训练/史密斯机.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/1/轻加轻盈五日餐/1Day.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/2/外卖/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/2/餐厅/小花旦.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/2/餐厅/米可自选沙拉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/2/餐厅/许小树.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/3/零食/兰花豆.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/3/零食/口香糖.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/3/零食/奶粉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/3/零食/瓜子.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/3/零食/荞麦片.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/3/零食/蛋白薯片.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/3/零食/零度.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/3/零食/鸭肫.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/4/口袋减脂营/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/4/口袋减脂营/加餐.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/4/口袋减脂营/午餐.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/4/口袋减脂营/早餐.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/4/口袋减脂营/早餐.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/4/口袋减脂营/晚餐.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/4/口袋减脂营/睡前.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/4/口袋减脂营/饮食计划.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/4/口袋减脂营/饮食计划.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/主食/沙拉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/主食/温度.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/主食/火锅.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/主食/用脑.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/主食/红肉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/主食/蛋白粉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/主食/鱼肉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/主食/鸡胸肉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/主食/麻辣烫.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/少食.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/撸串.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/时机.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/补剂/蛋白粉.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/食欲.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/食物库.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/4/Diet/饮食习惯.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/10/1臀腿.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/10/1臀腿.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/10/2胸.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/10/2胸.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/10/3背.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/10/4臀腿.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/10/4臀腿.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/10/5胸.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/10/5胸.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/10/6休息撸串.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/10/7HIIT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/10/7HIIT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/10/8背.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/10/8背.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/30/14胸.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/30/14胸.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/30/15背.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/30/15背.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/30/22背.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/30/22背.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/30/28胸.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/30/28胸.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/30/9臀肩.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/30/9臀肩.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/30天30斤.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/部位/背.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/部位/胸.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/斌卡/部位/臀腿.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/有氧/其他/key.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/有氧/其他/网球.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/有氧/心率.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/有氧/拳击.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/有氧/跑步.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/5/其他/有氧/运动量.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/Workout/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/Slim/驼背改善.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/稀缺/1/心流/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/稀缺/2/时间价值/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/稀缺/2/时间价值/对别人有价值.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/稀缺/2/时间价值/时间台阶/0_人的价值.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/稀缺/2/时间价值/时间台阶/1_时间.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/稀缺/2/时间价值/时间台阶/3_省.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/稀缺/2/时间价值/时间台阶/4_多元化.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/稀缺/2/时间价值/时间台阶/5_复制.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/稀缺/2/时间价值/时间台阶/6_营造预期.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/稀缺/2/时间价值/时间台阶/7_购买时间.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/稀缺/2/时间价值/时间台阶/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/稀缺/2/时间价值/活在当下/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/稀缺/4/Money-Flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/稀缺/5/My-Dear-Girl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/稀缺/Slim/Workout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare/稀缺/约束.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Product-Me/1/Level-Feeling/7/性感/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/Product-Me/1/Level-Feeling/7/性感/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Product-Me/2/Level-Trust/亲密.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Customer-Profile/1/Relationship/2/Level-Date/.idea/Level-Date.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Customer-Profile/1/Relationship/2/Level-Date/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Customer-Profile/1/Relationship/2/Level-Date/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/Customer-Profile/1/Relationship/2/Level-Date/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/4/Customer-Profile/5/Link/3_教会关系/JH算法.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/4/Customer-Profile/5/Link/3_教会关系/LQM.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/4/Customer-Profile/5/Link/3_教会关系/README.md" beforeDir="false" />
@@ -143,7 +478,7 @@
       <change beforePath="$PROJECT_DIR$/5/Scene/0/场景算法/Relationship" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/5/Scene/1/私有场景/其他环境/产权.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/5/Scene/1/私有场景/其他环境/出租屋/安装窗帘.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/Scene/1/私有场景/其他环境/出租屋/家居装修.md" beforeDir="false" afterPath="$PROJECT_DIR$/5/Scene/5/健身场景/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/Scene/1/私有场景/其他环境/出租屋/家居装修.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/5/Scene/1/私有场景/其他环境/出租屋/愚蠢的错误.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/5/Scene/1/私有场景/其他环境/出租屋/气压椅.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/5/Scene/1/私有场景/其他环境/出租屋/活动墙体.md" beforeDir="false" />
@@ -170,7 +505,7 @@
       <change beforePath="$PROJECT_DIR$/5/Scene/2/用户场景/2/新居/房产/拆迁/亲戚.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/5/Scene/2/用户场景/2/新居/房产/拆迁/珠粮街区补偿方案.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/5/Scene/2/用户场景/2/新居/房产/拆迁/腾退.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5/Scene/2/用户场景/2/新居/房产/政策房/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/5/Scene/0/场景算法/行动/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/Scene/2/用户场景/2/新居/房产/政策房/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/5/Scene/2/用户场景/2/新居/房产/政策房/公租房.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/5/Scene/2/用户场景/2/新居/房产/政策房/共有产权房.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/5/Scene/2/用户场景/2/新居/房产/租房/README.md" beforeDir="false" />
@@ -190,6 +525,7 @@
       <change beforePath="$PROJECT_DIR$/Concealment/拓灵VR/阿里云.md" beforeDir="false" afterPath="$PROJECT_DIR$/Concealment/拓灵VR/阿里云.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -299,41 +635,33 @@
     <session id="2028665403">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.398" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="6" />
-          <entry key="gitmodules" value="1" />
-          <entry key="md" value="31" />
-          <entry key="py" value="4" />
+          <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="31" />
-          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="1" />
-          <entry key="md" value="195" />
-          <entry key="py" value="30" />
+          <entry key="md" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="195" />
-          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="Markdown" value="11" />
         </counts>
       </usages-collector>
     </session>
@@ -1076,15 +1404,21 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0/元问题/习惯的力量.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor>
-                <caret column="4" selection-start-column="4" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Fast.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fast.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fast.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/Fast.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -1100,6 +1434,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>unrar</find>
+      <find>有价值</find>
+      <find>paypal</find>
+      <find>tower</find>
+      <find>马斯洛</find>
+      <find>大明</find>
       <find>不变</find>
       <find>分工</find>
       <find>榜样</find>
@@ -1123,16 +1463,9 @@
       <find>tech</find>
       <find>心花路放</find>
       <find>Workout</find>
-      <find>时间</find>
-      <find>有价值的人</find>
-      <find>台阶</find>
-      <find>淡旺</find>
-      <find>蹦极</find>
-      <find>知识就是力量</find>
-      <find>受欢迎</find>
+      <find>Point</find>
     </findStrings>
     <replaceStrings>
-      <replace>.</replace>
       <replace />
     </replaceStrings>
     <dirStrings>
@@ -1147,11 +1480,15 @@
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="/usr/local/git/bin/git" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/0/认知/认知的价值.md" />
+        <option value="$PROJECT_DIR$/Search.py" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/4/Level-Resource/约束.md" />
+        <option value="$PROJECT_DIR$/3/Product-Me/先发优势.md" />
         <option value="$PROJECT_DIR$/3/Product-Me/创新层/README.md" />
         <option value="$PROJECT_DIR$/3/Product-Me/用户价值公式.md" />
         <option value="$PROJECT_DIR$/4/Customer-Profile/6/Market/2/Market-Trust/README.md" />
@@ -1178,6 +1515,7 @@
         <option value="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/1/阶层提升/README.md" />
         <option value="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/Fast.py" />
         <option value="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/5/终局思维/README.md" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/README.md" />
         <option value="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/1/Perfect-Body/BodyVSLove.md" />
         <option value="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/1/Perfect-Body/Body|Love.md" />
         <option value="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/link.py" />
@@ -1191,18 +1529,13 @@
         <option value="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/5/Gnix-Pet/美女资源.md" />
         <option value="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/1/Perfect-Flesh/1/生活质量/2_方案.md" />
         <option value="$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/自如.md" />
-        <option value="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/天分.md" />
-        <option value="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/README.md" />
-        <option value="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/README.md" />
-        <option value="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/Fast.py" />
-        <option value="$PROJECT_DIR$/0/Operating-System/序号.md" />
+        <option value="$PROJECT_DIR$/3/Product-Me/退不回去/README.md" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/1/Mood/1/Point-High/Fast.py" />
+        <option value="$PROJECT_DIR$/3/Product-Me/前端.md" />
+        <option value="$PROJECT_DIR$/3/Product-Me/product.py" />
+        <option value="$PROJECT_DIR$/4/Customer-Profile/1/Relationship/1/Level-Accost/accost.py" />
         <option value="$PROJECT_DIR$/Fast.py" />
-        <option value="$PROJECT_DIR$/0/Operating-System/.gitignore" />
-        <option value="$PROJECT_DIR$/1/Data-Me/Fast.py" />
-        <option value="$PROJECT_DIR$/0/Operating-System/0/架构/README.md" />
-        <option value="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/价值比较.md" />
-        <option value="$PROJECT_DIR$/0/元问题/命运.md" />
-        <option value="$PROJECT_DIR$/0/元问题/习惯的力量.md" />
+        <option value="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/Fast.py" />
       </list>
     </option>
   </component>
@@ -1219,10 +1552,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
+    <option name="x" value="54" />
     <option name="y" value="23" />
-    <option name="width" value="1385" />
-    <option name="height" value="877" />
+    <option name="width" value="1922" />
+    <option name="height" value="1404" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -1233,8 +1566,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1245,26 +1579,31 @@
             <path>
               <item name="Life-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Life-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="0" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm-Me" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Life-Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Life-Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="0" type="462c0819:PsiDirectoryNode" />
-              <item name="元问题" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="Mood" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Life-Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Life-Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm-Me" type="462c0819:PsiDirectoryNode" />
+              <item name="Level-Resource" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="iGetGet&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/3/Ecology-Niche/1/raise/1/iGetGet&#10;时间台阶&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/5/Level-Resource/4/Resource/Export/2/时间价值/时间台阶&#10;知识就是力量&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/3/Ecology-Niche/1/raise/1/iGetGet/4/罗辑思维/知识就是力量&#10;新能源&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/3/Product-Me/3/Intimate/5/价格/盈利/资本盈利/汽车/2_新能源&#10;自如&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/3/Ecology-Niche/1/raise/自如.md&#10;边界&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/3/Ecology-Niche/边界.md&#10;Econo&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/2/Strategy/3/Bottom-Line/3/Economics&#10;relation&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/5/Scene/0/场景算法/Relationship&#10;cogn&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/1/Data-Me/2/数据清洗/Cognition&#10;得到大学&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/4/Career/2/行业专家/1/连接/得到大学报名问题.md&#10;致命的遗憾&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/5/Scene/1/私有场景/其他环境/出租屋/致命的遗憾.md&#10;tower&#9;FILE&#9;file:///Users/Cobb/Life-Algorithm/2/Algorithm-Me/2/资源层/5/Tools-and-Weapons/软件/TOWER.md&#10;bank&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/1/Data-Me/3/数据存储/Bank.md&#10;gradle&#9;FILE&#9;file:///Users/Cobb/Life-Algorithm/2.4.2_Technology-and-Expertise/1/规范/1/依赖管理/2_Gradle" />
+    <property name="SearchEverywhereHistoryKey" value="30&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/1/Perfect-Flesh/2/Workout/5/其他/斌卡/30天30斤.md&#10;竞争力&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/3/Product-Me/1/Be-Loved/3/Intimate/1/核心竞争力&#10;魅力&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/3/Product-Me/1/Be-Loved/1/Level-Feeling/6/魅力/魅力人物.md&#10;受欢迎&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/1/Mood/1/Point-High/2/受欢迎&#10;新能源&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/3/Product-Me/3/Intimate/5/价格/盈利/资本盈利/汽车/2_新能源&#10;自如&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/3/Ecology-Niche/1/raise/自如.md&#10;边界&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/3/Ecology-Niche/边界.md&#10;Econo&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/2/Strategy/3/Bottom-Line/3/Economics&#10;relation&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/5/Scene/0/场景算法/Relationship&#10;cogn&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/1/Data-Me/2/数据清洗/Cognition&#10;得到大学&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/2/Algorithm-Me/4/Career/2/行业专家/1/连接/得到大学报名问题.md&#10;致命的遗憾&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/5/Scene/1/私有场景/其他环境/出租屋/致命的遗憾.md&#10;tower&#9;FILE&#9;file:///Users/Cobb/Life-Algorithm/2/Algorithm-Me/2/资源层/5/Tools-and-Weapons/软件/TOWER.md&#10;bank&#9;FILE&#9;file:///Volumes/SSD/Life-Algorithm/1/Data-Me/3/数据存储/Bank.md&#10;gradle&#9;FILE&#9;file:///Users/Cobb/Life-Algorithm/2.4.2_Technology-and-Expertise/1/规范/1/依赖管理/2_Gradle" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539223399048" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536550664912" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -1276,19 +1615,19 @@
     <property name="tags.panel.proportion" value="0.5" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/0/元问题" />
-      <recent name="$PROJECT_DIR$/1/Data-Me" />
-      <recent name="$PROJECT_DIR$/0/Operating-System" />
-      <recent name="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource" />
-      <recent name="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/3/Bottom-Line" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单" />
-      <recent name="$PROJECT_DIR$/0/元问题" />
-      <recent name="$PROJECT_DIR$/0/Operating-System/0/架构" />
+      <recent name="$PROJECT_DIR$/3/Product-Me" />
       <recent name="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/1/Attention/2/算法" />
       <recent name="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final" />
+      <recent name="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/1/自我提升" />
+      <recent name="$PROJECT_DIR$/4/Customer-Profile/1/Relationship/1/Level-Accost" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/4/Customer-Profile/1/Relationship/1/Level-Accost" />
+      <recent name="$PROJECT_DIR$/2/Algorithm-Me/1/Mood/1/Point-High" />
+      <recent name="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/1/Perfect-Flesh" />
+      <recent name="$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final" />
+      <recent name="$PROJECT_DIR$/4/Customer-Profile/6/Market" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1306,23 +1645,51 @@
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
@@ -1404,14 +1771,18 @@
       <workItem from="1538141953022" duration="657000" />
       <workItem from="1538158812805" duration="185000" />
       <workItem from="1538204002970" duration="11113000" />
-      <workItem from="1538457109440" duration="461000" />
-      <workItem from="1539054580946" duration="4113000" />
-      <workItem from="1539219100668" duration="3857000" />
+      <workItem from="1538457109440" duration="303000" />
+      <workItem from="1538967733317" duration="1807000" />
+      <workItem from="1539581655639" duration="297000" />
+      <workItem from="1539583156444" duration="2477000" />
+      <workItem from="1539589619409" duration="742000" />
+      <workItem from="1539600812396" duration="142000" />
+      <workItem from="1539613057645" duration="3597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="391853000" />
+    <option name="totallyTimeSpent" value="392787000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1423,69 +1794,69 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="23" width="1385" height="877" extended-state="0" />
+    <frame x="54" y="23" width="1922" height="1404" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Learn" order="4" sideWeight="0.50063694" side_tool="true" weight="0.24981357" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.31451613" />
-      <window_info id="Structure" order="6" sideWeight="0.49936306" side_tool="true" weight="0.24918832" />
-      <window_info id="Favorites" order="7" sideWeight="0.50063694" side_tool="true" weight="0.24918832" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32834646" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4985119" weight="0.32992125" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989507" weight="0.32979664" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.6994964" weight="0.40127388" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.30050364" side_tool="true" weight="0.31847134" />
-      <window_info anchor="bottom" id="Thumbnails" order="11" sideWeight="0.49776787" weight="0.2511811" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.2953869" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4985119" weight="0.32992125" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" show_stripe_button="false" weight="0.32440478" />
+      <window_info id="Image Layers" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.30050364" side_tool="true" weight="0.31847134" />
       <window_info anchor="right" id="Maven Projects" order="8" show_stripe_button="false" weight="0.23034735" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989507" weight="0.32979664" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.6994964" visible="true" weight="0.15433572" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25896624" />
+      <window_info anchor="right" id="Database" order="7" show_stripe_button="false" weight="0.32440478" />
+      <window_info id="Structure" order="6" sideWeight="0.49936306" side_tool="true" weight="0.24918832" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.2953869" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="7" sideWeight="0.50063694" side_tool="true" weight="0.24918832" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Learn" order="4" sideWeight="0.50063694" side_tool="true" weight="0.24981357" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" sideWeight="0.49776787" weight="0.2511811" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32834646" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="7" sideWeight="0.50063694" side_tool="true" weight="0.24918832" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" sideWeight="0.49776787" weight="0.2511811" />
+      <window_info id="Structure" order="6" sideWeight="0.49936306" side_tool="true" weight="0.24918832" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.2953869" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4985119" visible="true" weight="0.32992125" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989507" weight="0.32979664" />
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Learn" order="4" sideWeight="0.50063694" side_tool="true" weight="0.24981357" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.31451613" />
-      <window_info id="Structure" order="6" sideWeight="0.49936306" side_tool="true" weight="0.24918832" />
-      <window_info id="Favorites" order="7" sideWeight="0.50063694" side_tool="true" weight="0.24918832" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32834646" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4985119" weight="0.32992125" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989507" weight="0.32979664" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.6994964" visible="true" weight="0.40127388" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.30050364" side_tool="true" weight="0.31847134" />
-      <window_info anchor="bottom" id="Thumbnails" order="11" sideWeight="0.49776787" weight="0.2511811" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.2953869" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Learn" order="4" sideWeight="0.50063694" side_tool="true" weight="0.24981357" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.6994964" weight="0.15511811" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.30050364" side_tool="true" weight="0.31889763" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32834646" />
       <window_info anchor="right" id="Database" order="7" show_stripe_button="false" weight="0.32440478" />
       <window_info anchor="right" id="Maven Projects" order="8" show_stripe_button="false" weight="0.23034735" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.3218111" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1587,6 +1958,181 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/1/Attention/活在当下.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret column="3" selection-start-column="3" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0/Operating-System/2/算法/算法使用指南.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="506">
+            <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/4/Career/2/Technology-and-Expertise/刻意练习.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/1/Relationship/1/Level-Accost/玩命邂逅.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="60">
+            <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/1/Relationship/1/Level-Accost/异地恋.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="110">
+            <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/1/Relationship/1/Level-Accost/多人聊天技巧.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/1/Relationship/1/Level-Accost/在野党.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1981">
+            <caret line="247" column="10" selection-start-line="247" selection-start-column="10" selection-end-line="247" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/1/Relationship/1/Level-Accost/搭讪阶段.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/3/阶层提升/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/3/阶层提升/代价.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/3/阶层提升/工作追求.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/3/阶层提升/高阶级.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/临终遗憾.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="110">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/1/Perfect-Body/README.md" />
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/1/Perfect-Body/Body|Love.md" />
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/1/Perfect-Flesh/link.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/1/Attention/3/精力和能量/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="242">
+            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/5/Link/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="8" selection-start-column="8" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/1/Attention/1/注意力和专注/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/2/Society/得到/罗振宇.md" />
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/link.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/6/生态/README.md" />
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/5/终局思维/README.md" />
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/4/连接/README.md" />
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/3/资源/1/美女/README.md" />
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/5/Gnix-Pet/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1598,16 +2144,7 @@
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/3/资源/健康/README.md" />
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/3/资源/房子/README.md" />
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/3/资源/README.md" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/5/Gnix-Pet/美女资源.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="418">
-            <caret line="19" selection-start-line="19" selection-end-line="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/5/Gnix-Pet/美女资源.md" />
     <entry file="file://$PROJECT_DIR$/4/Customer-Profile/5/Link/连接.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1663,271 +2200,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3/Product-Me/3/Intimate/5/价格/盈利/资本盈利/汽车/2_新能源/行驶证副页.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/3/Product-Me/退不回去/2_切实改变.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3/Product-Me/3/Intimate/5/价格/盈利/资本盈利/汽车/2_新能源/驾照.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/3/Product-Me/退不回去/3_生命中的一层.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3/Product-Me/3/Intimate/5/价格/盈利/资本盈利/汽车/2_新能源/发票.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/3/Product-Me/退不回去/1_分辨率.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3/Product-Me/3/Intimate/5/价格/盈利/资本盈利/汽车/2_新能源/车本.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/Product-Me/3/Intimate/5/价格/盈利/资本盈利/汽车/2_新能源/身份证.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/Product-Me/3/Intimate/5/价格/盈利/资本盈利/汽车/2_新能源/行驶证.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/天分.md">
+    <entry file="file://$PROJECT_DIR$/3/Product-Me/退不回去/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor>
-            <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+            <caret column="8" selection-start-column="8" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="38">
-            <caret line="2" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/不变.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="38">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/.gitmodules" />
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/1/iGetGet/4/罗辑思维/知识就是力量/如何成为一个有价值的人.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="76">
-            <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/2/Time-Currency/0_时间/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/2/Value-Peak/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/3/Bottom-Line/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/1/Point-High/2/受欢迎/1_凭禀赋.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/1/Point-High/2/受欢迎/8_无限游戏.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1577">
-            <caret line="83" column="1" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/Fast.py">
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/1/Point-High/Fast.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0/Operating-System/0/架构/序号.md">
+    <entry file="file://$PROJECT_DIR$/3/Product-Me/前端.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="678">
-            <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+          <first_editor relative-caret-position="22">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0/Operating-System/.gitignore">
+    <entry file="file://$PROJECT_DIR$/3/Product-Me/1/Be-Loved/1/Level-Feeling/6/魅力/魅力人物.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/1/Relationship/2/Level-Date/Fast.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state>
+          <caret selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/1/Perfect-Flesh/2/Workout/5/其他/斌卡/30天30斤.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/Customer-Profile/1/Relationship/1/Level-Accost/accost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/Product-Me/product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Fast.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="340">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/1/Mood/1/Point-High/2/受欢迎/3_不失言.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor>
-            <caret column="4" selection-start-column="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1/Data-Me/Fast.py">
+    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/Fast.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0/Operating-System/0/经济学/成本.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0/Operating-System/0/架构/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="190">
-            <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0/元问题/元问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0/元问题/元问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/价值比较.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="95">
-            <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/2/Strategy/1/Value-Final/1/价值清单/追求.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0/Operating-System/亲密.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0/Operating-System/熵增.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0/Operating-System/企业.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0/元问题/习惯的力量.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor>
-            <caret column="4" selection-start-column="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
+        <state relative-caret-position="374">
+          <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
         </state>
       </provider>
     </entry>

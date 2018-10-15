@@ -39,25 +39,7 @@ ln -s /Volumes/SSD/Workout/ /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/3/Career/
 # Resource
 ln -s  /Volumes/SSD/Level-Resource /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/5/Level-Resource
 
-ln -s /Volumes/SSD/Attention/                /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/5/Level-Resource/1/Attention
-ln -s /Volumes/SSD/Time-Currency/            /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/5/Level-Resource/2/Time-Currency
-ln -s /Volumes/SSD/Resource-Estate/          /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/5/Level-Resource/3/Resource-Estate
-ln -s /Volumes/SSD/Perfect-Body/             /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/5/Level-Resource/4/Perfect-Body
-ln -s /Volumes/SSD/Gnix-Pet/                 /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/5/Level-Resource/5/Gnix-Pet
-ln -s /Volumes/SSD/Money-Flow/               /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/5/Level-Resource/6/Money-Flow
-ln -s /Volumes/SSD/Tools-and-Weapons/        /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/5/Level-Resource/7/Tools-and-Weapons
-ln -s /Volumes/SSD/Resource-Rare/            /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/5/Level-Resource/8/Resource-Rare
-
-ln -s /Volumes/SSD/Investment/               /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/5/Level-Resource/1/Investment
-ln -s /Volumes/SSD/Consumption/              /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/5/Level-Resource/2/Consumption
-ln -s /Volumes/SSD/Export/                   /Volumes/SSD/Life-Algorithm/2/Algorithm-Me/5/Level-Resource/3/Export
-
-# Product-Me
 ln -s /Volumes/SSD/Product-Me/ /Volumes/SSD/Life-Algorithm/3/Product-Me
-
-ln -s /Volumes/SSD/Level-Feeling/ /Volumes/SSD/Life-Algorithm/3/Product-Me/1/Level-Feeling
-ln -s /Volumes/SSD/Level-Trust/ /Volumes/SSD/Life-Algorithm/3/Product-Me/2/Level-Trust
-ln -s /Volumes/SSD/Intimate/ /Volumes/SSD/Life-Algorithm/3/Product-Me/3/Intimate
 
 # Customer-Profile
 ln -s /Volumes/SSD/Customer-Profile/ /Volumes/SSD/Life-Algorithm/4/Customer-Profile
