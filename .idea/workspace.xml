@@ -903,16 +903,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="dependency.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dependency.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dependency.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
@@ -1034,8 +1034,8 @@
         <option value="$PROJECT_DIR$/3/Product-Me/2/Product-List/dependency.py" />
         <option value="$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/1/Attention/time.py" />
         <option value="$PROJECT_DIR$/2/Algorithm-Me/Worth/2/Worth-List/1/存在度/1/在一起/2/With-Resource/Scene/4/Enum-Scene/健身场景/金地2层/准备物品.md" />
-        <option value="$PROJECT_DIR$/dependency.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/dependency.py" />
       </list>
     </option>
   </component>
@@ -1051,7 +1051,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="784" />
     <option name="y" value="89" />
     <option name="width" value="1461" />
@@ -1269,12 +1269,12 @@
       <workItem from="1542354798860" duration="695000" />
       <workItem from="1542356053695" duration="1202000" />
       <workItem from="1543161359570" duration="905000" />
-      <workItem from="1543546493180" duration="197000" />
+      <workItem from="1543546493180" duration="258000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="418116000" />
+    <option name="totallyTimeSpent" value="418177000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1287,7 +1287,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="784" y="89" width="1461" height="1197" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4985119" weight="0.32992125" />
@@ -1299,10 +1298,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4989507" weight="0.32979664" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.69801664" visible="true" weight="0.3247619" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.69801664" visible="true" weight="0.3247619" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.297561" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.297561" />
       <window_info anchor="right" id="Database" order="7" show_stripe_button="false" weight="0.32440478" />
       <window_info id="Structure" order="6" sideWeight="0.49936306" side_tool="true" weight="0.24918832" />
       <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.2953869" />
@@ -1510,17 +1509,17 @@
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/5/Level-Resource/1/Attention/Attention.py" />
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/3/Ecology-Niche/1/raise/1/iGetGet/1/LuoZhenYu/罗辑思维/其他/59女人是一道题.md" />
     <entry file="file://$PROJECT_DIR$/2/Algorithm-Me/Worth/2/Worth-List/1/存在度/1/在一起/2/With-Resource/Scene/4/Enum-Scene/健身场景/金地2层/准备物品.md" />
-    <entry file="file://$PROJECT_DIR$/dependency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dependency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
     </entry>
